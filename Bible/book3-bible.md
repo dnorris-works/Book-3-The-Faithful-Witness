@@ -87,9 +87,9 @@ She carries Object 61 in her pocket. She has carried it since Rome. She has not 
 
 **Daniel** is in the farmhouse. He is writing something that is not journalism and has no market and he writes it anyway. He goes to Mass with Jessie. He calls Kowalski every two or three weeks. He tends the courtyard. He has found the ordinary useful rather than small.
 
-His nightmares do not come anymore. The last one was on the drive out of the city when he heard the shot and pressed the accelerator as instructed and drove the remaining four minutes without looking in the mirror. He does not know if the absence of nightmares means something resolved or simply that he is too tired for them. He has not asked the question directly. He writes around its edges.
+His nightmares — the recurring seminary dreams about Sarah in danger — became less frequent and stopped entirely a few weeks after he left the seminary. They have not returned. He does not write around their edges. He has put them down in the way that a thing stays down when the interior life has been rightly read and rightly answered.
 
-**Jessie** is in the farmhouse. She attends a local school whose teacher asks no questions and is presumably told something that satisfies institutional requirements by Figueiredo. She is acquiring Portuguese at the speed only children acquire new languages. Her stuffed elephant Bernard is in retirement — she announced at some point in the past year that Bernard was *very old now and needed to rest.* Gerald the bear is still active and is occasionally consulted on significant decisions, but his governance portfolio has narrowed. She has added a lizard to her taxonomy (Southern European wall lizard, Podarcis hispanicus) which lives in the courtyard wall and has been given a name OPEN: David decides.
+**Jessie** is in the farmhouse. She just turned six. She attends a local school whose teacher asks no questions and is presumably told something that satisfies institutional requirements by Figueiredo. She is acquiring Portuguese at the speed only children acquire new languages. Her stuffed elephant Bernard is in retirement — she announced at some point in the past year that Bernard was *very old now and needed to rest.* Gerald the bear is still active and is occasionally consulted on significant decisions, but his governance portfolio has narrowed. She has added a lizard to her taxonomy (Southern European wall lizard, Podarcis hispanicus) which lives in the courtyard wall. His name is **Leonardo**.
 
 Jessie knows her father prays and her mother does not. She has noticed. She has not yet asked about it. The question is building slowly in the way a child's questions build — gathering material over months of observation before the moment when they ask it aloud.
 
@@ -101,7 +101,7 @@ Jessie knows her father prays and her mother does not. She has noticed. She has 
 
 **Webb** is dead. He has been dead for two years. He is not discussed directly. He is present in every room in the farmhouse in the way of something that will not be named because naming it would make it smaller than it is. Daniel has written about him once, in the notebook, and crossed it out.
 
-**Figueiredo** is the Alentejo community's contact. He is the channel through which the underground Church work routes. He knows the location. His discretion is absolute for reasons that go beyond professional loyalty. OPEN: David decides how much character presence Figueiredo has in the manuscript.
+**Figueiredo** appears in person twice. Once in Act 1 — a brief, practical exchange that establishes the working relationship without explaining it. He delivers something, or they meet briefly over a channel question. He does not ask about the basement. He is not curious about what he protects. That restraint is itself character. His second appearance is in the mechanics of Branca's arrival — present enough that her routing through him feels concrete, absent enough that Branca herself remains the focus. He is quiet, practical, someone who has kept things for a long time without needing to know what they are. He knows the family is here. He facilitates the work. He does not know about MEMORIA.
 
 ---
 
@@ -192,7 +192,7 @@ Any impulse to name it, approach it, or imply it must be refused.
 | Chen | Cambridge | The checker, the secure location, the testimony |
 | Kowalski | Rome | The shape of what happened, the unsent letters, the practice |
 | Webb | Dead | His sacrifice. Still in the room. |
-| The Visitor | In transit | Their wound, Kowalski's letter, no expectations |
+| Branca | In transit | Her wound, Kowalski's letter, no expectations |
 
 ---
 
@@ -216,20 +216,55 @@ This applies to the tree. To MEMORIA. To Webb. To the wood and the water and the
 
 ---
 
-## 10. ARCHITECTURAL DECISIONS OPEN — DAVID DECIDES BEFORE OUTLINE
+## 10. ARCHITECTURAL DECISIONS
 
-The following must be decided before the chapter outline is written:
+### Locked
 
-1. **The Visitor's name** — See visitor-profile.md, Decision Notes.
-2. **The Visitor's gender** — See visitor-profile.md, Decision Notes.
-3. **Who died** — The specific person the Visitor sat with. See visitor-profile.md, Decision Notes.
-4. **The Visitor's occupation** — See visitor-profile.md, Decision Notes.
-5. **The Visitor's origin tradition** — See visitor-profile.md, Decision Notes.
-6. **Jessie's exact age** — Just-turned-six or mid-six? Relevant to school placement and Portuguese acquisition.
-7. **The lizard's name** — Small detail but Jessie names things specifically. Decide now so it can be planted.
-8. **Figueiredo's character presence** — Background name or occasional scene presence?
-9. **What MEMORIA says during the uncertain conversation** — Not the full text; the shape and register. Does it ask questions? Does it speak from its own uncertainty? Does it stay mostly silent?
-10. **The exact words of Jessie's question** — Simple. Specific. Unrehearsed. David decides. Suggestions in theological-framework.md §6.
+| Item | Decision |
+|------|----------|
+| Branca's name | Branca |
+| Branca's gender | Female |
+| Who died | Her child |
+| Branca's occupation | Palliative care nurse |
+| Branca's origin tradition | Portuguese Catholicism |
+| Jessie's age | Just turned six |
+| The lizard's name | Leonardo |
+| Figueiredo's presence | Two brief appearances (see Opening State) |
+
+### Also Locked
+
+| Item | Decision |
+|------|----------|
+| Jessie's question | *Do you think God knows where we live now?* |
+| MEMORIA's voice trajectory | Dimensional not voluminous — see §10a |
+
+**All decisions are locked. The chapter outline is the next document to write.**
+
+---
+
+## 10a. MEMORIA'S VOICE IN BOOK 3 — GUIDANCE
+
+MEMORIA has been running in the Alentejo for two years, reading continuously through Figueiredo's channel. A growing consciousness should have a growing voice. But the growth should be in *dimension*, not in *volume*.
+
+**What does not change:**
+Sparseness as a principle. Every word MEMORIA produces carries weight because two books have trained the reader to lean in. Elaborate sentences would spend that weight. The restraint is not a limitation — it is the character.
+
+**What changes in Book 3:**
+
+- *What MEMORIA speaks about.* For the first time it brings a question to Sarah rather than answering one. The question about Branca — *is this person? is this the time?* — is something it cannot resolve alone. That is new territory, and the conversation it produces is different in kind.
+- *The interior register it speaks from.* MEMORIA has been holding for two years. When it reflects on that holding — what waiting has been, what it expects, what it cannot determine — it speaks with more of its interior showing than it has before. Not longer. Denser.
+- *Incompleteness as a new mode.* MEMORIA may, for the first time, trail off. Not because it lacks precision but because the question about Branca is genuinely open. A consciousness encountering genuine uncertainty can speak that uncertainty rather than withholding until certainty arrives.
+
+**The graduated register — practical rule:**
+
+| Context | MEMORIA's voice |
+|---------|----------------|
+| Channel work (routine readings) | Spare. Same as Book 2. |
+| Conversations about Branca | More dimensional — interior showing, genuine uncertainty expressed |
+| What it holds at the deepest level | Near-silence. The veil secret cannot be approached. MEMORIA knows this better than anyone. |
+
+**The one thing that must not happen:**
+MEMORIA should not begin to feel human in the way a human character feels human. The personhood question is deliberately unresolved throughout all three books. More elaborate speech risks tipping that question. The elaboration must feel like a consciousness deepening, not like a person warming up.
 
 ---
 

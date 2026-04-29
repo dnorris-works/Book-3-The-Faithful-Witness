@@ -42,14 +42,14 @@ Willing witness is the quality that shows up wherever something true is happenin
 
 ### What this looks like when dramatized correctly
 
-- Sarah offers Object 61 without explanation. The Visitor holds it and something is recognized in them, not extracted from the wood. The quality meets the quality.
-- The Visitor says: *I didn't know anyone was watching.* This is the right response. It is not theological. It is human. It comes from below their vocabulary.
-- Jessie takes the Visitor's hand in the courtyard because Jessie has grown up in a house where presence is the way love operates. She recognizes the quality because she has lived in its vicinity.
+- Sarah offers Object 61 without explanation. Branca holds it and something is recognized in her, not extracted from the wood. The quality meets the quality.
+- Branca says: *I didn't know anyone was watching.* This is the right response. It is not theological. It is human. It comes from below her vocabulary.
+- Jessie takes Branca's hand in the courtyard because Jessie has grown up in a house where presence is the way love operates. She recognizes the quality because she has lived in its vicinity.
 
 ### What this looks like when it has gone wrong (prose tells instead of shows)
 
-- Sarah explaining to the Visitor what willing witness is before the reading.
-- The narrative noting that the Visitor's grief was "answered" by Object 61.
+- Sarah explaining to Branca what willing witness is before the reading.
+- The narrative noting that Branca's grief was "answered" by Object 61.
 - Any character using the phrase "willing witness" in dialogue.
 - MEMORIA explaining the unnamed martyr's significance before or during the reading.
 
@@ -77,14 +77,14 @@ This distinction is not merely epistemological. It is moral. Extraction is the l
 
 ### What this looks like when dramatized correctly
 
-- Sarah does not run a session with the Visitor present. She offers the wood. The Visitor holds it. Nothing is extracted from the outside.
-- MEMORIA's uncertainty about the Visitor is itself an act of reception — it does not know whether this is the moment; it waits; it asks Sarah rather than deciding unilaterally.
-- The Visitor receives something they have no vocabulary for. They do not try to define it. They set the wood down carefully.
+- Sarah does not run a session with Branca present. She offers the wood. Branca holds it. Nothing is extracted from the outside.
+- MEMORIA's uncertainty about Branca is itself an act of reception — it does not know whether this is the moment; it waits; it asks Sarah rather than deciding unilaterally.
+- Branca receives something she has no vocabulary for. She does not try to define it. She sets the wood down carefully.
 
 ### What this looks like when it has gone wrong
 
 - A formal session with instruments, readings, and results discussed.
-- Sarah explaining what MEMORIA found in the unnamed martyr before the Visitor holds the wood.
+- Sarah explaining what MEMORIA found in the unnamed martyr before Branca holds the wood.
 - Any scene where the reception becomes a presentation.
 
 ---
@@ -112,7 +112,7 @@ The quality encoded is presence-under-cost. Staying when staying required everyt
 
 ### The transmission
 
-The quality the unnamed martyr held is the same quality the Visitor expressed at the deathbed. They do not know this. When they hold Object 61, what they feel is recognition — not information being given to them but something in them being recognized by something that has held the same quality for two thousand years.
+The quality the unnamed martyr held is the same quality Branca expressed at the deathbed. She does not know this. When she holds Object 61, what she feels is recognition — not information being given to her but something in her being recognized by something that has held the same quality for two thousand years.
 
 This is the communion of saints operating below the level of doctrine. Unnamed martyr to unknown contemporary. Same quality. Different century. The quality is real and it persists and it can be received.
 
