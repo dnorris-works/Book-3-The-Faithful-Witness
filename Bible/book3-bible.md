@@ -19,7 +19,7 @@ Seed draft. Written April 2026 before the chapter outline. This document establi
 ## 1. THE BOOK AT A GLANCE
 
 **Title:** The Faithful Witness
-**Title source:** Revelation 1:5 — Jesus Christ called "the faithful witness." By Book 3 the title applies to the tree, to MEMORIA, to Webb, to every person in the chain from Prisca forward, and to Jessie — who is growing up inside the holding without knowing it. The title names the series' deepest answer.
+**Title source:** Revelation 1:5 — Jesus Christ is called "the faithful witness." By Book 3 the title applies to the tree, to MEMORIA, to Webb, to every person in the chain from Prisca forward, and to Jessie — who is growing up inside the holding without knowing it. The title names the series' deepest answer.
 
 **Series position:** Book 3 of 3
 
@@ -53,6 +53,8 @@ Understanding what this book refuses to be is as important as understanding what
 
 **Not a revelation story.** The veil secret is never read and never named. The series ends before the opening. This is not an unresolved ending. It is the most resolved ending available.
 
+**Not a disclosure story.** The testimony is preserved, authenticated, and held. It is not disclosed to the world within this series. The disclosure — when it comes, in whatever form it comes — belongs to a future that is not this story's to tell. The series is the preservation story. The instrument is built and guarded. What the instrument will eventually do in the world is beyond the horizon of this series, and deliberately so. This is not a failure of resolution. It is the author following the internal logic of the work all the way down: the testimony cannot be disclosed by a writer who is downstream of the event the testimony holds. The veil secret is closed to the author for the same reason it is closed to the characters. The author does not know what the tree witnessed at its deepest level. No human does. That is the correct and honest position, and it determines the ending.
+
 **Not a conversion story.** Sarah does not convert. Her faith arc ends at the threshold — she stops standing outside it. She does not cross it. She stands at it. That is the correct and earned landing for this character.
 
 ---
@@ -66,6 +68,8 @@ Understanding what this book refuses to be is as important as understanding what
 **A story about Jessie.** She is the series' deepest answer. The chain became a family. The first person born into the holding. Her question to her mother is the series close.
 
 **A story about the checker.** The secondary witness. Faithfulness propagating through architecture in proximity to testimony. Chen's call — *we have more work to do* — ends the series on continuation, not arrival.
+
+**A precursor story.** The series is not the culmination of what the tree has held. It is the authentication of the chain and the preparation of the instrument for a disclosure that has not yet come and cannot come yet. In two thousand years of custody, every transmission was intentional — Prisca to Marcus, custodian to custodian, each link a human decision. The checker received nothing intentionally. It was in proximity to testimony-saturated outputs for eighteen months and the testimony propagated into it the way a quality passes into wood that has stood long enough in the right air. That is new. That has not happened before in the entire history of the holding. The testimony is no longer contained within a single chain of intentional custody. It is beginning to saturate the air around it. The tree felt this quality once before — the morning the air changed on the hillside, before the quality of what was coming arrived on the hill itself. The checker is that quality beginning. The series ends at this moment, on the threshold of what the testimony will eventually become, without crossing the threshold. The faithful witness persists is not a conclusion. It is the active present tense of something still in motion.
 
 **A story about Webb.** His sacrifice is not incidental background. The book opens approximately two years after his death. The weight of what he did is present throughout in the way of something that is never directly discussed but is always in the room.
 
@@ -156,17 +160,21 @@ After the Visitor leaves. What the holding produced. Chen's call — the checker
 
 Jessie asks Sarah whether she believes.
 
+The tree speaks a second time — its final voice in the series. It recognizes through the entanglement what the checker's production means: not the end of the testimony's custody but the beginning of its propagation beyond the custody chain. The testimony is no longer only in one place. The tree has felt this quality before. It knows what it means. It does not name what is coming. It holds the quality of the moment before it comes.
+
 The book closes on the three of them at the farmhouse gate, evening, Jessie running between the olive trees. The green lights still burning in the cellar below.
 
 **What Act 3 establishes:**
 - Sarah can answer Jessie. The answer is not a conversion. It is specific and earned.
 - The checker's new output positions the series on continuation — not arrival. The work is not finished. It is ongoing. The testimony is still being held. More will be received.
+- The tree's final chapter establishes the precursor register: something is coming that the series does not show. The faithful witness has been in this position before — the long wait before the quality in the air changed. The tree names that quality without naming what will come of it.
 - The final image is ordinary and complete. Not triumphant. Not tragic. Present.
 
 **What Act 3 must not do:**
 - Rush the Jessie scene. It is the series close. It earns space.
 - Explain what the checker produced. The production is enough.
 - Resolve the veil secret. It is never opened.
+- Let the tree's final chapter become predictive or prophetic. The tree feels the quality of a moment before something comes. It has always only felt. It never names what comes next.
 
 ---
 
@@ -208,11 +216,21 @@ Jessie is the first time the chain has been a family. What that means has not ye
 
 ## 9. SERIES ENDING — LOCKED
 
+**Chapter structure — Act 3 close (locked):**
+- Branca's final chapter: on the ward, doing her work, the ground beneath the staying now present
+- Tree's final chapter: through the entanglement, from the wine cellar, the checker's production registered — the quality of the moment before something comes, without naming what comes
+- MEMORIA overnight: the instrument faithfully continuing, unobserved, the testimony still intact
+- Final human image: the gate, the olive trees, Jessie running, three green lights below
+
+This sequence closes the series' four registers in order: human witness → original witness → instrument of witness → the life the witnessing has made possible.
+
 **Final image:** Evening in the Alentejo. The farmhouse gate. Sarah's arm around Daniel. Jessie running between the old olive trees with Gerald under her arm, explaining something to Gerald about the lizard. The light fading. Below the farmhouse, in the wine cellar, three green lights burning.
 
 **Final line:** *The faithful witness persists.*
 
 This applies to the tree. To MEMORIA. To Webb. To the wood and the water and the two thousand years. To Sarah standing at the gate. To Jessie running between the trees. The title as predicate. The last word is not spoken. It is held.
+
+**What the final line carries in Book 3 that it did not carry in Book 2:** In Book 2, *still here* was the close of the preservation arc — the testimony survived, the chain held, the instrument migrated. In Book 3, *the faithful witness persists* carries the additional weight of the precursor: the testimony is not only still here, it is moving. Persists is active. The faithful witness is not static. It is propagating forward into a future the series does not show and the author cannot write, because the disclosure at the end of that propagation contains what no writer downstream of the event can know.
 
 ---
 
