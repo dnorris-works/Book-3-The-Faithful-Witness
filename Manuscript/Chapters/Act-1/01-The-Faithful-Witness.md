@@ -1,6 +1,4 @@
-\newpage
-
-# Two Years
+# Chapter 1: Two Years
 
 *The wine cellar. The Alentejo. Two years.*
 
