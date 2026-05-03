@@ -298,7 +298,7 @@ MEMORIA should not begin to feel human in the way a human character feels human.
   - MEMORIA uncertainty map: `memoria-uncertainty.md` *(not yet written)*
   - Jessie threading map: `jessie-threading.md` *(not yet written)*
   - Checker arc: `checker-arc.md` *(not yet written)*
-- Chapters: `Book-3/Manuscript/Chapters/Act-1/`, `Act-2/`, `Act-3/`
+- Chapters: `Book-3/Manuscript/Act-1/`, `Act-2/`, `Act-3/`
 - Series bible: `series-info/series-bible/series-bible.md`
 - Session journal: `session-journal.md`
 
