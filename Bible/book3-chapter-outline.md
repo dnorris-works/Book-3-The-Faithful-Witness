@@ -189,7 +189,7 @@ The decisive conversation. The third major exchange about Branca. Sarah comes to
 
 **Chapter 25 — Sarah and Branca POV**
 
-The reading. Evening, after dinner. Daniel has taken Jessie through her bedtime ritual. The kitchen or the courtyard — somewhere ordinary, nowhere formal. Sarah and Branca are together in the particular quiet that follows a house going to sleep. No announcement, no preamble. Sarah takes Object 61 from her pocket. She looks at it for a moment. She says something true and simple that is not an explanation — perhaps: *I've been carrying this for two years. I don't always know why I carry it. I think it might be for you.* She holds it out. Branca holds it. What happens in Branca is interior and not visible from outside except through what is small: her hands change, the quality of her stillness changes — she is no longer still in the way of a person managing what she carries; she is still in the way of a person receiving something. She does not cry. After a while she sets the wood down carefully on the table, in the way you set down something you understand does not belong to you. She says: *I didn't know anyone was watching.* Sarah does not correct this. She does not say: it was not watching the way you mean. She does not explain. She sits. Dramatically, this is the act's culmination — the transmission from the unnamed martyr's quality to the quality Branca has been expressing for years without ground — and the prose shows the exchange and withholds the mechanism entirely.
+The reading. Evening, after dinner. Daniel has taken Jessie through her bedtime ritual. The kitchen or the courtyard — somewhere ordinary, nowhere formal. Sarah and Branca are together in the particular quiet that follows a house going to sleep. No announcement, no preamble. Sarah takes Object 61 from her pocket. She looks at it for a moment. She says something true and simple that is not an explanation — perhaps: *I've been carrying this for two years. I don't always know why I carry it. I think it might be for you.* She holds it out. Branca holds it. What happens in Branca is interior and not visible from outside except through what is small: her hands change, the quality of her stillness changes — she is no longer still in the way of a person managing what she carries; she is still in the way of a person receiving something. She does not cry. After a while she sets the wood down carefully on the table, in the way you set down something you understand does not belong to you. She says: *I didn't know anyone was watching.* Sarah does not correct this. She does not say: it was not watching the way you mean. She does not explain. She sits. **Choreography note (locked): after Branca's line, Sarah says nothing. She sits with her. That is the complete instruction to the prose. No interiority, no physical action, no spoken response. The silence is the answer. The prose must not fill it.** Dramatically, this is the act's culmination — the transmission from the unnamed martyr's quality to the quality Branca has been expressing for years without ground — and the prose shows the exchange and withholds the mechanism entirely.
 
 ---
 
@@ -255,13 +255,13 @@ Sarah routes the checker output to Kowalski through Figueiredo's channel — not
 
 **Chapter 35 — Daniel and Sarah POV**
 
-She tells Daniel about the checker and the call and Kowalski's response. He sits with it for a long time. He does not try to make it smaller than it is. He says: *Webb would have wanted to see this.* It is the first time in the book that either of them has named Webb in speech. The name is in the air for a moment. Neither of them follows it. They sit together. What Daniel carries into the silence is the notebook sentence he did not cross out. What Sarah carries is Object 61. They are at the farmhouse table and the evening is coming on and below them the three green lights are burning. Dramatically, this is the Webb chapter — the only moment in the book where he is named, earned by everything the book has built toward, and the restraint of neither character following it beyond the name is what makes it land.
+She tells Daniel about the checker and the call and Kowalski's response. He sits with it for a long time. He does not try to make it smaller than it is. He says: *Webb would have wanted to see this.* It is the first time in the book that either of them has named Webb in speech. The name is in the air for a moment. Neither of them follows it. They sit together. **Structural protection note (locked): after Daniel says Webb's name, the prose shows one physical action from Sarah — no interiority, no spoken response, no extended silence described — and then the scene continues. The name goes into the room and is not pursued. One physical action is the entire permitted response. The restraint is the tribute.** What Daniel carries into the silence is the notebook sentence he did not cross out. What Sarah carries is Object 61. They are at the farmhouse table and the evening is coming on and below them the three green lights are burning. Dramatically, this is the Webb chapter — the only moment in the book where he is named, earned by everything the book has built toward, and the restraint of neither character following it beyond the name is what makes it land.
 
 ---
 
 **Chapter 36 — Jessie and Sarah POV**
 
-Evening. Several days after the Chen call. Jessie has had a bath — she is in pajamas, hair still damp, carrying Gerald, winding down. Sarah and Jessie are doing something small together in the low light: Jessie is supposed to be in bed but she came back for something she forgot and then sat down. The question comes the way a child's questions come — sidelong, as if she is asking about something ordinary, as if she has not been accumulating this for months. The exact phrasing is left open for the draft. Simple, specific, unrehearsed — a six-year-old's question about something she has been observing for months, not a philosophical inquiry. It costs Jessie nothing to ask. It costs Sarah everything to answer. Sarah answers. Not with a doctrine. Not with a formulation. In her own voice, the truth she has been arriving at for three books, the truth that the holding has made possible, the truth she could not have spoken in Book 1 or Book 2 or even a year ago. Specific and earned and quiet. Jessie receives the answer in the way children receive things that feel true: she nods, says something small, and goes to bed. Dramatically, this is the series' deepest answer — not stated in the document, written in the prose — and it is Sarah's arc completing: she has been faithful without knowing it, and she can say so to her daughter.
+Evening. Several days after the Chen call. Jessie has had a bath — she is in pajamas, hair still damp, carrying Gerald, winding down. Sarah and Jessie are doing something small together in the low light: Jessie is supposed to be in bed but she came back for something she forgot and then sat down. The question comes the way a child's questions come — sidelong, as if she is asking about something ordinary, as if she has not been accumulating this for months. The exact phrasing is locked: *Do you think God knows where we live now?* Simple, specific, unrehearsed — a six-year-old's question that is about the hiding as much as it is about God, about whether the life they have built in this place is seen, about whether the ordinary they inhabit is held by anything larger than themselves. A question only a child raised inside the holding would ask in exactly this way. It costs Jessie nothing to ask. It costs Sarah everything to answer. Sarah answers. Not with a doctrine. Not with a formulation. In her own voice, the truth she has been arriving at for three books, the truth that the holding has made possible, the truth she could not have spoken in Book 1 or Book 2 or even a year ago. Specific and earned and quiet. Jessie receives the answer in the way children receive things that feel true: she nods, says something small, and goes to bed. Dramatically, this is the series' deepest answer — not stated in the document, written in the prose — and it is Sarah's arc completing: she has been faithful without knowing it, and she can say so to her daughter.
 
 ---
 
@@ -351,7 +351,9 @@ Evening at the farmhouse. The three of them. The gate. Sarah's arm around Daniel
 - Ch 34: Kowalski's three words; MEMORIA names it
 
 ### Chain of custody — canonical (if referenced in any chapter)
-Prisca → Marcus (313 CE) → Matthias (614 CE) → Theophilus (726 CE) → Hermann Vogel (1629 CE) → Thomas (17th c.) → Marcus Webb → James Chen → Sarah Davidson → Daniel Reeves
+Prisca → Marcus (313 CE) → Matthias (614 CE) → Theophilus (726 CE) → Hermann Vogel (1629 CE) → Thomas (c. 1689 CE) → Marcus Webb → James Chen → Sarah Davidson → Daniel Reeves
+
+*Note on Thomas: Hermann Vogel is 1629. Thomas is late 17th century — c. 1689 is the working date, placing him approximately sixty years after Hermann, consistent with the chain's pattern of generational transmission. This date is not stated in the narrative but must not be contradicted by any prose that references Thomas's period.*
 
 Jessie is the first person born into the holding. This is shown in the final image. It is never stated.
 
@@ -359,11 +361,17 @@ Jessie is the first person born into the holding. This is shown in the final ima
 
 *Outline complete — April 2026.*
 *Decisions locked April 30, 2026:*
-*— Jessie's question wording: open for prose draft*
 *— Branca POV chapters: Ch 18 and Ch 38 only; all other Branca scenes mediated*
 *— Entry point for prose: Chapter 1, tree voice (locked)*
 *— 41 chapters total (second tree-voice chapter added as Ch 39, MEMORIA overnight moved to Ch 40, final image Ch 41)*
 *— Series ends as precursor story: the testimony begins propagating beyond the custody chain; no disclosure; the veil secret is never opened; the author cannot write what the tree holds at its deepest level and this is the correct and honest position*
+
+*Decisions locked May 2026 (second session):*
+*— Jessie's question wording locked: Do you think God knows where we live now? (Ch 36)*
+*— Chapter 25 choreography locked: after "I didn't know anyone was watching" — Sarah says nothing. She sits with her. The prose must not fill the silence.*
+*— Thomas working date established: c. 1689 CE (approximately 60 years after Hermann Vogel, 1629)*
+*— Chapter 35 Webb-naming protection locked: one physical action from Sarah after the name; no interiority, no spoken response; then the scene continues*
+
 *Chapter prose begins after David approves this document.*
 *Next: MEMORIA uncertainty map, Jessie threading map, checker arc document.*
 *Session journal: /Users/norris/Documents/projects/writing/Stories/The Quantum Witness Series/session-journal.md*
