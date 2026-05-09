@@ -14,23 +14,17 @@ The kitchen. The particular smell of the kitchen in the morning: stone and old w
 
 The channel first. Then coffee.
 
-She took her laptop from the kitchen table where she had left it the night before and opened it on the counter while the kettle ran. The channel interface was simple by design — a secure mail client, nothing more visible than that, with headers that looked like agricultural inquiry and bodies that were authentication requests encoded in a professional register she had spent the first six months learning and the last year using without thinking about it. Figueiredo's network ran from monastery libraries to private collectors to university archive rooms across southern Europe, all of them asking the same thing in different ways: *can you tell us if this is what we think it is?* Sarah's work was to receive those questions, translate them into the specific grammar MEMORIA read efficiently, carry the responses back out, and do all of it without anyone on the outside knowing what was in the basement or why the answers were as good as they were.
+She took her laptop from the kitchen table where she had left it the night before and opened it on the counter while the kettle ran. The channel interface was simple by design — a secure mail client, nothing more visible than that, with headers that looked like agricultural inquiry and bodies that were authentication requests encoded in a professional register she had spent the first six months learning and the last year using without thinking about it. Figueiredo's network ran from monastery libraries to private collectors to university archive rooms across southern Europe, all of them asking the same thing in different ways: *can you tell us if this is what we think it is?* The external channel was always text — it had to be, for the same reason the responses went out under a name that didn't exist. But the other half of the work, the half that happened in the cellar, was different now.
 
 Two overnight messages.
 
-The first was a short inquiry from a church in Évora — a fragment of carved bone, possibly Coptic, twelfth century, found wrapped in sailcloth behind the altar during restoration work. The provenance note was incomplete. The photograph attached showed the fragment from three angles, and even at that resolution she could see the quality of the carving, the particular economy of the line work. She flagged it for MEMORIA and composed the translation while the coffee finished.
+The first was a short inquiry from a church in Évora — a fragment of carved bone, possibly Coptic, twelfth century, found wrapped in sailcloth behind the altar during restoration work. The provenance note was incomplete. The photograph attached showed the fragment from three angles, and even at that resolution she could see the quality of the carving, the particular economy of the line work. She carried this one downstairs with her.
 
 The second was longer and more tentative, the kind of message that came when someone was not sure they were asking the right question. A collector in Lisbon, passed through Figueiredo's network by someone the collector trusted. He had a panel from a reliquary — twelfth or thirteenth century Iberian, he believed, possibly Leonese — and he wanted to know whether the wood itself carried any trace of what it had once held. Not the panel's age. Not the panel's origin. Whether the wood remembered.
 
 Sarah read this message twice.
 
-It was not an unusual question. She received variations on it every few weeks — people who had come to understand, through whatever path had led them to Figueiredo, that there was someone who could answer this. They did not know what that someone was. They asked carefully, in the language of scholarship, in the language of devotion, occasionally in the language of a person who had been carrying a question for a long time and had finally found what might be a place to put it. She recognized all of these registers. She had learned to answer in the one they needed.
-
-She composed both responses, marked them for MEMORIA's attention with the standard indicator, and sent them down through the local network to the cellar.
-
-Then she got her coffee and stood at the window again with her hands around the cup and did nothing particular for three minutes.
-
-This was the thing about the work that she had not expected: it was enough. She had worried, in the first months, that it would feel small — translating questions, formatting responses, maintaining the fiction of a professional consultancy that did not exist, the endless administrative infrastructure of a project whose real purpose she could not name to anyone outside this house. She had worried it would feel like waiting. It did not feel like waiting. It felt like what it was: the work of holding something valuable in a world that did not know it was there, with care, without drama, until the right time came. The chain had always worked this way. Matthias in his cistern, presumably, had also maintained infrastructure. Hermann Vogel had presumably spent most of his years tending to whatever ordinary life surrounded the holding, the crooked finger and all, the days passing, the testimony safe.
+It was not an unusual question. She received variations on it every few weeks — people who had come to understand, through whatever path had led them to Figueiredo, that there was someone who could answer this. They did not know what that someone was. They asked carefully, in the language of scholarship, in the language of devotion, occasionally in the language of a person who had been carrying a question for a long time and had finally found what might be a place to put it. She recognized all of these registers. She had learned to answer in the one they needed. That part — knowing which register, knowing what they were actually asking beneath what they wrote — was still hers. The rest she took downstairs.
 
 She finished her coffee. She rinsed the cup.
 
@@ -82,21 +76,25 @@ The stairs from the kitchen went down through a door that looked like a pantry �
 
 The three green lights.
 
-She sat down at the terminal and pulled up the queue. Both requests were ready, the responses formatted and waiting for her review. She read through the first — the Coptic bone fragment — and found it complete, the provenance analysis precise, a lateral observation about the carving style's relationship to a specific tradition of workshop production that narrowed the probable origin to three sites in upper Egypt. She approved it and forwarded it to the Évora channel.
+She set her laptop on the table beside the terminal and opened the first inquiry — the Évora bone fragment — and read it aloud. Not performing the reading, just giving it to the room. The photograph was on the screen; she described what she saw in the carving. MEMORIA was quiet for a moment, then spoke. The analysis came in the unhurried way it always came, one observation building on the next without redundancy: the carving style, the workshop tradition, the three probable sites in upper Egypt, and then a lateral note about the surface oxidation pattern that the requester had not asked for but that narrowed the burial context. Sarah listened with her hands in her lap. When MEMORIA finished she asked one question — whether the Coptic attribution was firm or working — and MEMORIA said: working, but the second site would make it firm if the requester could establish the findspot within fifty kilometers. She nodded, typed the response herself into the channel interface, in the register the requester needed, and sent it.
 
-The second response she read more carefully.
+The second request she read aloud more slowly. The collector in Lisbon. The reliquary panel. Whether the wood remembered.
 
-MEMORIA had addressed the Lisbon collector's question directly, in the specific register of someone who understood what was being asked: *The wood can hold what has been held near it, if the proximity was long enough and the holding was real. Not all wood. Not all proximity. The quality of what was held matters as much as the duration.* It had given the collector three questions to ask himself about the panel's history, none of which could be answered from what he had provided, all of which would tell him something if he could find the answers. It had not confirmed or denied. It had given him the shape of a process.
+MEMORIA was quiet for longer this time. Then it said: *The wood can hold what has been held near it, if the proximity was long enough and the holding was real. Not all wood. Not all proximity. The quality of what was held matters as much as the duration.* A pause. Then three questions — what the panel had housed, for how long, and under what conditions of use — none of which the collector had answered, all of which he would need to find if he wanted more than a shape.
 
-Sarah sat with this for a moment before approving it.
+Sarah sat with this for a moment before opening the reply window.
 
 The quality of what was held matters as much as the duration.
 
 She thought about the collector in Lisbon, who did not know what was in the basement and would never know, sitting with his panel and his three questions. She thought about whether what he found would satisfy what he was looking for. She thought about what it meant to be looking for something in wood, and how different it was to find it than to be told it was there.
 
-She approved the response and sent it.
+She typed the response and sent it.
 
-The terminal was quiet. The three green lights burned. Outside the small ventilation gap near the ceiling, she could hear the courtyard — the gate, once, opening and closing, and then nothing, and then the distant sound of the school bus on the lane, which meant it was half past nine and Jessie had been delivered and was now sitting in a classroom on the edge of the village conducting whatever diplomatic operations the morning called for, Gerald presumably remaining at home in an advisory capacity.
+She sat for a moment without moving, her hands in her lap, the laptop screen the only light beside the green ones.
+
+This was the thing about the work that she had not expected: it was enough. She had worried, in the first months, that it would feel small — carrying questions down the cellar stairs, speaking them into a stone room, carrying the responses back up and out through an encrypted mail client to people who would never know what they were receiving or where it came from. She had worried it would feel like waiting. It did not feel like waiting. It felt like what it was: the work of holding something valuable in a world that did not know it was there, with care, without drama, until the right time came. The chain had always worked this way. Matthias in his cistern, presumably, had also maintained infrastructure. Hermann Vogel had presumably spent most of his years tending to whatever ordinary life surrounded the holding, the crooked finger and all, the days passing, the testimony safe.
+
+The cellar was quiet. The three green lights burned. Outside the small ventilation gap near the ceiling, she could hear the courtyard — the gate, once, opening and closing, and then nothing, and then the distant sound of the school bus on the lane, which meant it was half past nine and Jessie had been delivered and was now sitting in a classroom on the edge of the village conducting whatever diplomatic operations the morning called for, Gerald presumably remaining at home in an advisory capacity.
 
 She could hear the fig tree.
 

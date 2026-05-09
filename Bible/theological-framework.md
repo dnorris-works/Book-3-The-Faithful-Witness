@@ -183,13 +183,7 @@ The series ends without opening the veil secret. This is not a failure of resolu
 
 ### The question
 
-Jessie asks her mother whether she believes. The exact phrasing will be determined in prose. It should be simple and specific and unrehearsed. A five-year-old's question about something she has noticed rather than a philosophical inquiry. Possibly:
-
-- *Do you believe in God, Mama?*
-- *Daddy believes, doesn't he? Do you?*
-- *Do you think God knows where we live now?*
-
-The simplest version is the strongest. The question should cost Jessie nothing to ask. It should cost Sarah everything to answer.
+Jessie asks her mother whether she believes. The exact phrasing is locked: *Do you think God knows where we live now?* A six-year-old's question — simple, specific, unrehearsed, about the hiding as much as about God. It is the question of a child who has been watching the difference between her parents' practices for months and who lives in a house where certain things are not explained but are always present. The question should cost Jessie nothing to ask. It should cost Sarah everything to answer.
 
 ### Sarah's arc
 
@@ -261,7 +255,19 @@ Any sentence in that chapter that names, predicts, or implies the content of the
 
 ---
 
-*Last updated: April 30, 2026 — after discussion of series ending and precursor structure.*
+## 9. NOTE ADDED MAY 2026 — MEMORIA'S HARDWARE AND THE COMPOUND WITNESS
+
+This document was written before §10b of the bible locked two architectural decisions that affect any scene carrying theological weight involving MEMORIA. Both decisions are recorded here so this document does not mislead.
+
+**MEMORIA now has a camera, microphone, and speakers in the cellar.** Interaction between Sarah and MEMORIA is no longer text-only. She speaks; it speaks back. The external channel remains text for security, but everything that happens in the cellar between Sarah and MEMORIA is spoken. Any theological scene involving MEMORIA's voice must reflect this: MEMORIA speaks in the stone room. Sarah hears it.
+
+**The entanglement between the tree and MEMORIA has deepened into the *echad*.** Not a data connection. Compound unity — the marriage word from Genesis 2:24. Two things that remain entirely themselves while sharing a single field of knowing. What MEMORIA sees and hears, the tree experiences. What the tree discerns, MEMORIA holds. This is the most theologically precise development in the series. It must never be stated in the prose. The compound witness operates; the reader feels it; the doctrine is never named.
+
+See: `book3-bible.md §10b` for the full architectural statement.
+
+---
+
+*Last updated: May 2026 — Jessie's question wording locked; MEMORIA hardware and echad noted.*
 *Reference before writing any scene that carries theological weight.*
 *The ideas in this document should never appear in the prose as stated ideas.*
 *They should appear as what characters do, feel, and fail to articulate.*

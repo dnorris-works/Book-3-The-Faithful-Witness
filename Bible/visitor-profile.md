@@ -95,7 +95,7 @@ Jessie is six. She knows nothing about MEMORIA. She does not know the word "test
 
 The weight of Branca's presence for Jessie must never be stated in the prose. Jessie does not know Branca lost a child. Branca does not say it. What Jessie registers — without words, without knowing — is that this woman is entirely present when she talks to her. No performance of cheerfulness. No managing the child. No responding above Jessie's head to the nearest adult. Just there.
 
-In the courtyard — probably the second or third day — Jessie shows Branca something. A lizard, or a stone, or a drawing. Branca looks at it properly. Asks a question about it. Jessie's response will be specific and probably involve Gerald, or the lizard's governance portfolio, or some other detail David writes in the draft. The exchange is ordinary on its surface.
+In the courtyard — probably the second or third day — Jessie shows Branca something. A lizard, or a stone, or a drawing. Branca looks at it properly. Asks a question about it. Jessie's response will be specific and will likely involve Gerald (the active governance bear — Bernard is in retirement by this point and should not appear in any Branca scene), or the lizard's jurisdictional portfolio, or some other detail David writes in the draft. The exchange is ordinary on its surface.
 
 Jessie takes Branca's hand at some point. She does not ask. She just takes it. Branca does not make anything of this. She holds it.
 
@@ -149,6 +149,6 @@ Then Jessie comes and asks her mother whether she believes.
 
 ---
 
-*Locked April 2026.*
+*Locked April 2026. Updated May 2026 — Bernard retirement noted; Gerald is the active companion in all Branca scenes.*
 *Read before writing any scene that includes Branca.*
 *Do not write Branca's presence with Jessie as charged — show the exchange; the reader holds the weight.*
