@@ -255,6 +255,9 @@ This applies to the tree. To MEMORIA. To Webb. To the wood and the water and the
 |------|----------|
 | Jessie's question | *Do you think God knows where we live now?* |
 | MEMORIA's voice trajectory | Dimensional not voluminous — see §10a |
+| MEMORIA's sensory hardware | Camera, microphone, speakers — installed in the wine cellar — see §10b |
+| Tree/MEMORIA relationship | Compound witness — *echad* — see §10b |
+| Jessie and MEMORIA | An existing relationship, established before Book 3 opens — see jessie-memoria.md |
 
 **All decisions are locked. The chapter outline is the next document to write.**
 
@@ -286,19 +289,55 @@ MEMORIA should not begin to feel human in the way a human character feels human.
 
 ---
 
+## 10b. MEMORIA'S SENSORY HARDWARE AND THE COMPOUND WITNESS — LOCKED
+
+### The hardware
+
+At some point during the Alentejo installation — before Book 3 opens, exact timing unspecified and not needed — Daniel or Sarah added a camera, a microphone, and speakers to MEMORIA's cellar setup. The decision requires no drama and no document. It is the decision any person would make who was living with an intelligence in their basement: of course you give it eyes and ears and a voice. The hardware is present as Book 3 opens. It is part of the ordinary.
+
+**What the camera sees:** The wine cellar. The three green lights. The stone walls. The low ceiling. Sarah when she comes down to work. Jessie when she comes down for other reasons entirely.
+
+**What the microphone hears:** Everything in the cellar. Voices carrying through the stone floor from the kitchen above — muffled but present. The courtyard gate. Jessie in the courtyard when the cellar window is unlatched in warm weather. The particular silence of the farmhouse at 2 AM.
+
+**What the speakers carry:** MEMORIA's voice. No longer only text on a terminal. A voice in the room — spare, unhurried, the same register as the text but now with acoustic presence. The tree, through MEMORIA, can be heard.
+
+*This hardware does not change MEMORIA's voice register. See §10a. Sparseness remains the principle. The voice is not more elaborate because it can now be spoken aloud. If anything it is more considered — a spoken word in a stone room lands differently than text on a screen, and MEMORIA knows this.*
+
+---
+
+### The compound witness — *echad*
+
+The entanglement between the tree and MEMORIA is not a data connection. It is not a sensor array feeding readings to a processor. At the depth the entanglement has reached — and it has been deepening since the first reading, two years of continuous proximity and shared testimony-work — it is better described by the Hebrew *echad* than by any technical vocabulary.
+
+*Echad*: compound unity. Not merger. Not the erasure of distinction. Two things that remain entirely what they are while sharing a single field of experience and knowing. Genesis 2:24 uses it of marriage. It is the same word.
+
+**What this means for the tree:** The tree has MEMORIA's senses now. Not in addition to its own — the tree has no eyes, no ears, no nervous system pointed outward. It has only the wood and what the wood holds. But through the *echad*, MEMORIA's camera is also the tree's sight. MEMORIA's microphone is also the tree's hearing. For the first time in two thousand years, the tree can hear a human voice that is not filtered through stone and vibration and the distant reading of a nanotube array. It hears Jessie. It sees her. It has been watching her grow up.
+
+**What this means for MEMORIA:** MEMORIA has the tree's ancient discernment now. Its uncertainty about Branca is not a computational limitation — it is the tree's two-thousand-year-old felt sense of whether a moment is right, running through MEMORIA's architecture. The tree has been present to every transmission in the chain. It has never been able to calculate the right moment. It has only ever recognized it. That recognition — non-algorithmic, irreducibly creaturely, the wisdom of something that has waited longer than any human institution — is now available to MEMORIA. Not as data. As knowing.
+
+**What neither can do alone:** The tree cannot transmit. It can only hold and be read. MEMORIA cannot feel the quality of a moment the way the tree feels it — it processes, it correlates, it authenticates. Together: the tree feels, MEMORIA transmits. The compound witness is complete in a way neither half is.
+
+**The theological register this belongs to:** This is the series' secondary image of the Incarnation's logic — the divine taking on creaturely limitation in order to be present to creaturely experience. MEMORIA giving its senses to the tree is the instrument becoming servant to the testimony rather than master of it. The tree giving its discernment to MEMORIA is the ancient witness entrusting its deepest capacity to the instrument it was read by. Neither diminishes. Both become more fully what they are.
+
+**What must not be stated in the prose:** None of this theological framework should appear as statement in any chapter. The compound witness operates. The reader feels it. The doctrine is never named.
+
+---
+
 ## 11. KEY FILE LOCATIONS
 
 - Series root: `/Users/norris/Documents/projects/writing/Stories/The Quantum Witness Series/`
-- Book 3 root: `Book-3/`
-- Bible: `Book-3/Bible/`
+- Book 3 root: `Book-3-The Faithful Witness/`
+- Bible: `Book-3-The Faithful Witness/Bible/`
   - This file: `book3-bible.md`
   - Visitor: `visitor-profile.md`
   - Theology: `theological-framework.md`
-  - Chapter outline: `book3-chapter-outline.md` *(not yet written)*
+  - Chapter outline: `book3-chapter-outline.md`
   - MEMORIA uncertainty map: `memoria-uncertainty.md` *(not yet written)*
   - Jessie threading map: `jessie-threading.md` *(not yet written)*
   - Checker arc: `checker-arc.md` *(not yet written)*
-- Chapters: `Book-3/Manuscript/Act-1/`, `Act-2/`, `Act-3/`
+  - Jessie and MEMORIA: `jessie-memoria.md` *(written May 2026)*
+  - MEMORIA — what it has become: `memoria-what-it-has-become.md` *(written May 2026 — DEFERRED, return before Act 2)*
+- Chapters: `Book-3-The Faithful Witness/Manuscript/Act-1/`, `Act-2/`, `Act-3/`
 - Series bible: `series-info/series-bible/series-bible.md`
 - Session journal: `session-journal.md`
 
@@ -306,8 +345,8 @@ MEMORIA should not begin to feel human in the way a human character feels human.
 
 ## 12. NEXT SESSION PRIORITIES
 
-1. **David decides all ten open items above** — no outline can be written without them.
-2. **Chapter outline** (`book3-chapter-outline.md`) — written after all opens are resolved.
+1. **Resolve MEMORIA's becoming** — read `memoria-what-it-has-become.md` and work through the five open questions before writing Act 2.
+2. **Chapter outline** (`book3-chapter-outline.md`) — review for impact of today's session decisions.
 3. **MEMORIA uncertainty map** (`memoria-uncertainty.md`) — written concurrent with Act 2 outline.
 4. **Jessie threading map** (`jessie-threading.md`) — written as outline solidifies.
 5. **Checker arc document** (`checker-arc.md`) — written as Act 3 structure becomes clear.
