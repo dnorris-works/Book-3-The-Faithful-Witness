@@ -16,7 +16,7 @@ He nodded. He was not a man who confirmed things he already knew — he had aske
 
 They stood in the courtyard for a moment. The morning was clear, the kind of October clarity that would not last into winter, the light still warm enough to make the stone walls of the farmhouse look like something from a different century. Figueiredo glanced at the courtyard without appearing to glance at it — she had noticed he did this, a kind of ambient assessment that was not surveillance exactly, more the habit of someone who had spent a long time being responsible for things.
 
-He held out the padded envelope. "From a collector in Porto. He came through Padre Mendes, who came through the Braga chapter. The provenance documentation is inside but he believes it is incomplete."
+He held out the padded envelope. "From a collector in Porto. He came through Padre Mendes, who came through the Braga chapter. The provenance documentation is inside, but he believes it is incomplete."
 
 Sarah took the envelope. It was sealed with tape over the flap and had the weight of something small and dense inside — not a photograph, then. An object, or a cast of one.
 
