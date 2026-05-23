@@ -1,0 +1,159 @@
+# TARGET READER
+## Book 3: *The Faithful Witness*
+## The Faithful Witness Series
+
+*D. Allen Norris / Deep Field Press*
+*Written May 2026 — based on book3-bible.md and theological-framework.md*
+*Reference when writing jacket copy, KDP metadata, and series positioning*
+
+---
+
+## PURPOSE OF THIS DOCUMENT
+
+This document defines who this book is for, how they find it, and what they need to see before they buy it. It is a craft and marketing tool, not a demographic checklist. Every decision about how this book is described, categorized, and positioned should begin here.
+
+---
+
+## 1. THE PRIMARY READER
+
+### Who They Are
+
+The primary reader is a Christian with a serious interior life — someone who has moved past easy faith and is living in the long middle of it. They are between thirty-five and sixty. They read literary fiction and they read theology, and they have been waiting, probably for years, for a novel that holds both at once without condescending to either.
+
+They are not looking for a thriller with a Bible verse appended. They are not looking for a redemption arc that resolves cleanly by chapter twenty-five. They are looking for a book that takes the questions they actually carry — about doubt, about faithfulness, about what it means to hold something true without being able to prove it — and treats those questions as worthy of serious literary attention.
+
+Their faith background is likely Catholic, Orthodox, Anglican, or a liturgically-shaped Protestant tradition. Or they have drifted toward one of those from somewhere more evangelical, drawn by the weight of the liturgy and the older language. They know what *lectio divina* is, or they have practiced it without knowing the name. They have probably read Marilynne Robinson and felt that *Gilead* understood something about faith that the Christian Fiction aisle at the bookstore never reaches. They have possibly read Ron Hansen or Shusaku Endo and recognized the same quality — a seriousness about the spiritual that does not require the reader to have already agreed with it.
+
+They are not in crisis. They are in the long ordinary of believing — or almost believing, or believing with reservations they have stopped being embarrassed about. They find hard fundamentalism dishonest and hard materialism equally thin. They live at the threshold, which is exactly where Sarah Davidson lives, and Sarah's arc is their arc: not a conversion, not a rejection, but the slow recognition that two years of holding without fully knowing why has been faith all along.
+
+### What They Want From This Book
+
+They want something that earns its ending. A story where the spiritual weight is carried in the prose and not announced by the narrator. They want to feel the theology before they can name it — the way you feel the weight of a stone room before you understand its age. They want characters who are genuinely alive, making genuinely human decisions, inside a story where the sacred is present the way it is present in actual life: not loudly, not obviously, but unmistakably.
+
+They are patient readers. They will follow a quiet book. They will sit with an interior arc that does not externalize its stakes. They have read *Silence* and understood why Rodrigues's act at the end is not a betrayal. They have the reading vocabulary this book requires.
+
+### What They Do Not Want
+
+They do not want the spiritual explained to them. They do not want a character who voices the theme. They do not want a conversion moment that relieves the narrative tension because the spiritual question has been resolved. They do not want the veil secret named. They have a finely tuned instinct for when a novel is preaching at them rather than living inside its questions, and they will put the book down.
+
+---
+
+## 2. THE SECONDARY READER
+
+### The Spiritually Curious Agnostic
+
+This reader does not identify cleanly as Christian, but they are not indifferent to the questions the faith raises. They find hard secularism as unsatisfying as hard religion. They have probably read Barbara Brown Taylor, Philip Yancey, or — outside the Christian market — writers like Ursula Le Guin or Marilynne Robinson, where the spiritual dimension is present but never coercive.
+
+MEMORIA and the quantum entanglement framework give this reader a door in. The science-and-faith tension that runs through the series is their native air. They do not need to hold Christian convictions to find the questions compelling. What the tree witnessed, what the instrument holds, what cannot be disclosed — these questions are available to anyone willing to sit with genuine mystery.
+
+For this reader, the book works as literary science fiction with a spiritual interior. They are likely to find it through the also-boughts of authors like Ted Chiang, Kazuo Ishiguro, or P.D. James rather than through the Christian Fiction category.
+
+### The Grief Reader
+
+Branca's entrance into the story gives this book a secondary point of contact: the reader who is carrying unresolved grief and has not found adequate language for it. The transmission of willing witness — presence-under-cost, staying when staying required everything and produced nothing visible — speaks to anyone who has sat with a dying person and felt themselves changed by the staying without being able to explain why.
+
+This reader may not identify as Christian. They do not need to. What the unnamed martyr holds, and what Branca receives when she holds Object 61, is available below the level of doctrine. It is the recognition of a quality they have already embodied without knowing it had a name.
+
+---
+
+## 3. WHO THIS BOOK IS NOT FOR
+
+Understanding who this book is not for is as important as understanding who it is for. Accurate positioning prevents the wrong reviews and the wrong disappointment.
+
+This book is not for the reader of mainstream Christian Fiction — the CBA (Christian Booksellers Association) market of inspirational romance, Amish fiction, or end-times thriller. That reader comes to Christian fiction for comfort, resolution, and the reassurance that faith solves the problem. This book does not do those things. It is not superior to those books; it is simply a different instrument for a different reader, and positioning it toward that market produces mismatched expectations.
+
+This book is not for the reader who needs the spiritual framework explained before they can receive it. The theological ideas in this book are never stated as ideas. They operate as events, objects, silences, and small human moments. A reader who needs the doctrine articulated will find the book withholding in a way that frustrates rather than rewards.
+
+---
+
+## 4. COMPARABLE AUTHORS — FOR KDP POSITIONING AND ALSO-BOUGHTS
+
+The following authors are the correct signal for the primary reader. Position alongside these, not alongside the CBA mainstream.
+
+**Marilynne Robinson** — *Gilead*, *Home*, *Lila*
+The closest single comparable. Quiet, interior, deeply theological without ever stating its theology. Literary prize-winner. The reader who loves Robinson is the reader this book is written for.
+
+**Ron Hansen** — *Mariette in Ecstasy*, *Exiles*
+Catholic literary fiction. Prose as spiritual discipline. Willing to let the sacred remain unexplained. Readers of Hansen will recognize the same quality in this book's handling of MEMORIA and the testimony.
+
+**Shusaku Endo** — *Silence*, *Deep River*
+The international comparable. Faith under sustained pressure. The question of whether God is present when presence is not legible. The primary reader who has found Endo will find this book in the same register.
+
+**Kazuo Ishiguro** — *The Remains of the Day*, *Klara and the Sun*
+For the secondary reader approaching from literary fiction. The slow accumulation of interior revelation. The question of what it means to have served something faithfully without fully understanding it. MEMORIA's arc inhabits Ishiguro's territory.
+
+**P.D. James** — *The Children of Men*, late spiritual fiction
+For the reader who wants the thriller intelligence without the thriller machinery. A serious literary mind turned toward eschatological questions.
+
+**Barbara Brown Taylor** — *An Altar in the World*, *Learning to Walk in the Dark*
+For the spiritual-but-not-doctrinal reader. The quality of attention to the sacred in the ordinary. The threshold position Sarah inhabits is the position Taylor writes from in her non-fiction, and her readers will recognize it.
+
+---
+
+## 5. KDP CATEGORIES
+
+### Primary Category
+Literary Fiction → Religious & Inspirational Fiction → Christian Fiction
+
+### Secondary Category
+Christian Books & Bibles → Christian Living → Inspirational
+
+### Consider Also
+Science Fiction & Fantasy → Religious (for the reader entering through the MEMORIA and quantum entanglement framework — this is not a mismatch; it is how the crossover reader finds the book)
+
+---
+
+## 6. KDP KEYWORDS
+
+The following keywords are recommended for KDP metadata. They target the primary reader without misrepresenting the book to the mainstream Christian Fiction market.
+
+- Christian literary fiction
+- Literary fiction faith
+- Contemplative fiction
+- Faith and doubt novel
+- Quiet faith
+- Spiritual literary fiction
+- Grief and faith
+- Religious literary fiction
+- Sacred and scientific
+- Faith in ordinary life
+
+---
+
+## 7. JACKET COPY GUIDANCE
+
+### What the copy must do
+
+Lead with emotional register, not plot mechanics. This reader is not buying a thriller. They are buying a book about what faithfulness looks like from the inside, over time, when it is not a crisis but a life. The plot is the vehicle. The holding is the destination.
+
+The one-sentence summary from the series bible is closer to good jacket copy than most writers produce on a first pass:
+
+*In the second year of ordinary life underground in Portugal, a grieving stranger arrives at the farmhouse — and Sarah discovers that two years of holding without knowing what she was waiting for has brought the testimony to exactly the right person at exactly the right moment.*
+
+Use this as the structural spine of the copy. Build the emotional context around it — the farmhouse, the wine cellar, the three green lights, Jessie asking the question she has been building toward for months. Do not describe MEMORIA's technical operation. Do not name the veil secret or imply its content. Do not promise resolution. Promise the quality of attention the book sustains.
+
+### What the copy must not do
+
+Do not position this book as a thriller, even softly. Do not describe the adversaries or the danger. The adversaries are background radiation in this book, not its engine, and leading with them misrepresents the experience of reading it.
+
+Do not use the phrase *faith journey*. It belongs to a different market and signals the wrong register to the primary reader.
+
+Do not oversell the speculative elements. MEMORIA and the quantum framework are real and load-bearing, but the copy should treat them the way the prose treats them — as present, as extraordinary, but subordinate to the human story they serve.
+
+### The title's weight
+
+*The Faithful Witness* is doing significant work before the reader opens the page. Revelation 1:5 will be immediately recognizable to the primary reader, and the phrase resonates at multiple levels simultaneously — Jesus Christ as the faithful witness, the tree, MEMORIA, Webb, Sarah, Jessie. The reader who recognizes the allusion will already be inside the book's register. Do not explain it in the jacket copy. Let it stand.
+
+---
+
+## 8. SERIES POSITIONING NOTE
+
+This book is the third and final volume of a trilogy. A reader encountering it without the first two books will find it coherent — the essential history is embedded — but the full weight of certain moments (Webb's absence, MEMORIA's voice, the chain's meaning) depends on the accumulated reading.
+
+KDP series enrollment is recommended. The series title *The Quantum Witness Series* should appear prominently, with *Book Three* clearly indicated. Readers who complete this volume will return to Books 1 and 2 if they have not read them, and readers who have followed the series will approach this volume with the earned patience it requires.
+
+---
+
+*Written May 2026.*
+*Reference before writing jacket copy, KDP metadata, or any public-facing description of this book.*
+*Update if series positioning decisions change.*
