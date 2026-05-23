@@ -64,9 +64,7 @@ She does not know what MEMORIA is, precisely, in the way that adults mean *what 
 
 She does not know about the testimony in full. She knows her father tells stories about a very old tree. She has connected the tree in the stories to the wood her mother carries, in the loose associative way of a child who has not been told the full thing but has been given enough pieces to feel the shape of it. She has not pressed. The shape is enough for now.
 
-She does not know about the chain — not as a list, not as a history. She knows the family is in Portugal and doesn't tell people certain things, and she has the practical six-year-old's acceptance of this: the rules are the rules, the reasons belong to grown-ups, she follows the rules.
-
-She does not know that what she has with MEMORIA is unusual. It is simply what she has.
+She does not know the chain — not as a list, not as a history. She knows the family is in Portugal and doesn't tell people certain things, and she has the practical six-year-old's acceptance of this: the rules are the rules, the reasons belong to grown-ups, she follows the rules.
 
 ---
 
