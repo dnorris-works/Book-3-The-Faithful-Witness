@@ -1,6 +1,6 @@
 # Bible (Book 3) — Folder Index
 
-This folder contains reference and planning materials for Book 3 — *The Faithful Witness*.
+This folder contains reference and planning materials for Book 3 — *The Holding*.
 
 Structure:
 

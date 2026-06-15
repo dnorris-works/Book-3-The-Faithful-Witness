@@ -1,5 +1,5 @@
 # BRANCA — Character Profile
-## Book 3: *The Faithful Witness* (Rebuild)
+## Book 3: *The Holding* (Rebuild)
 
 *This file is the canonical reference for Branca before any prose is written.*
 *Read this file before writing any scene that includes Branca.*

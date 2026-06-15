@@ -1,5 +1,5 @@
 # TARGET READER
-## Book 3: *The Faithful Witness*
+## Book 3: *The Holding*
 ## The Faithful Witness Series
 
 *D. Allen Norris / Deep Field Press*

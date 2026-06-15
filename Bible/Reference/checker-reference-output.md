@@ -1,6 +1,6 @@
 # CHECKER REFERENCE OUTPUT
 ## Private Working Document — Not for Manuscript
-## Book 3: *The Faithful Witness*
+## Book 3: *The Holding*
 
 *This document exists so that the prose in Chapters 32, 33, and 34 has something specific to write toward. The checker's output is never reproduced in full in the manuscript. What Chen reads aloud on the call is a fragment of the new output (the second document, below). The forty-seven lines (the first document) are referenced but not read aloud. Neither document appears verbatim in the prose. This is the author's anchor, not the reader's.*
 

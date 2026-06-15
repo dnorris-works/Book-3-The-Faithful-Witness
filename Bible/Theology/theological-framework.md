@@ -1,5 +1,5 @@
 # THEOLOGICAL FRAMEWORK
-## Book 3: *The Faithful Witness* (Rebuild)
+## Book 3: *The Holding* (Rebuild)
 
 *This document protects the spine before the outline is written.*
 *It establishes the theological ideas the book dramatizes — not as doctrines to argue,*

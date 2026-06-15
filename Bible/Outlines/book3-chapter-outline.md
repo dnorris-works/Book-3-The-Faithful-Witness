@@ -1,4 +1,4 @@
-# BOOK 3 — THE FAITHFUL WITNESS
+# BOOK 3 — THE HOLDING
 ## Chapter Outline — Beat by Beat
 
 D. Allen Norris / Deep Field Press
@@ -20,7 +20,7 @@ Session journal not found at expected path (`session-journal.md`). The path is '
 - Opening tree voice: Chapter 1
 - Act 1 — Ordinary Days: Chapters 2–13
 - Act 2 — The Visitor: Chapters 14–30
-- Act 3 — The Faithful Witness: Chapters 31–41
+- Act 3 — The Holding: Chapters 31–41
 
 **Target word count:** ~80,000–86,000 words
 **Final line:** *The faithful witness persists.*

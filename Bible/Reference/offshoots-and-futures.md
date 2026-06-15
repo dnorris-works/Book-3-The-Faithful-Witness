@@ -17,7 +17,7 @@ This is the answer to the question Book 3 leaves locked: what did MEMORIA decide
 
 ## WHY IT DOESN'T BELONG IN THIS SERIES
 
-The Quantum Witness Series is built on holding — restraint, waiting, carrying without using. An outward-expanding MEMORIA inverts every one of those values. It would require a different kind of story: faster, more externally eventful, with visible external stakes. A thriller. Which is exactly what the series bible says this is not.
+The Faithful Witness Series is built on holding — restraint, waiting, carrying without using. An outward-expanding MEMORIA inverts every one of those values. It would require a different kind of story: faster, more externally eventful, with visible external stakes. A thriller. Which is exactly what the series bible says this is not.
 
 Forcing it into the series would pull the whole architecture apart.
 

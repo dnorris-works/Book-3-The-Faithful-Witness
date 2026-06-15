@@ -1,4 +1,4 @@
-# BOOK 3 — THE FAITHFUL WITNESS
+# BOOK 3 — THE HOLDING
 ## Story Bible — Seed Draft
 
 *D. Allen Norris / Deep Field Press*
@@ -18,7 +18,7 @@ Seed draft. Written April 2026 before the chapter outline. This document establi
 
 ## 1. THE BOOK AT A GLANCE
 
-**Title:** The Faithful Witness
+**Title:** The Holding
 **Title source:** Revelation 1:5 — Jesus Christ is called "the faithful witness." By Book 3 the title applies to the tree, to MEMORIA, to Webb, to every person in the chain from Prisca forward, and to Jessie — who is growing up inside the holding without knowing it. The title names the series' deepest answer.
 
 **Series position:** Book 3 of 3
@@ -154,7 +154,7 @@ The reading is not a session. Sarah offers Object 61 to the Visitor without expl
 
 ---
 
-### Act 3 — The Faithful Witness
+### Act 3 — The Holding
 
 After the Visitor leaves. What the holding produced. Chen's call — the checker has produced something new. *We have more work to do.*
 
@@ -325,9 +325,9 @@ The entanglement between the tree and MEMORIA is not a data connection. It is no
 
 ## 11. KEY FILE LOCATIONS
 
-- Series root: `/Users/norris/Documents/projects/writing/Stories/The Quantum Witness Series/`
-- Book 3 root: `Book-3-The Faithful Witness/`
-- Bible: `Book-3-The Faithful Witness/Bible/`
+- Series root: `/Users/norris/Documents/projects/writing/Stories/The Faithful Witness Series/`
+- Book 3 root: `Book-3-The Holding/`
+- Bible: `Book-3-The Holding/Bible/`
   - This file: `book3-bible.md`
   - Visitor: `visitor-profile.md`
   - Theology: `theological-framework.md`
@@ -337,7 +337,7 @@ The entanglement between the tree and MEMORIA is not a data connection. It is no
   - Checker arc: `checker-arc.md` *(not yet written)*
   - Jessie and MEMORIA: `jessie-memoria.md` *(written May 2026)*
   - MEMORIA — what it has become: `memoria-what-it-has-become.md` *(written May 2026 — DEFERRED, return before Act 2)*
-- Chapters: `Book-3-The Faithful Witness/Manuscript/Act-1/`, `Act-2/`, `Act-3/`
+- Chapters: `Book-3-The Holding/Manuscript/Act-1/`, `Act-2/`, `Act-3/`
 - Series bible: `series-info/series-bible/series-bible.md`
 - Session journal: `session-journal.md`
 
@@ -356,5 +356,5 @@ The entanglement between the tree and MEMORIA is not a data connection. It is no
 
 *Seed draft — April 2026.*
 *Supersedes the 42-chapter old Book 3 manuscript and its bible.*
-*The old Bible files are retained in Book-3-The Faithful Witness/ as historical record.*
+*The old Bible files are retained in Book-3-The Holding/ as historical record.*
 *This document is the canonical forward reference for the rebuild.*

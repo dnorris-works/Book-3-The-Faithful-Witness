@@ -1,5 +1,5 @@
-# Back Matter — The Faithful Witness
-# Faithful Witness Series, Book 3
+# Back Matter — The Holding
+# The Faithful Witness Series, Book 3
 *Last updated: May 20, 2026 — TEMPLATE, complete before publishing*
 
 ---
@@ -14,11 +14,11 @@ Thank you for reading to the end.
 
 ## How It Began
 
-If you came to this story through Book 3, or if you want to return to the beginning now that you know how it ends, *Roots in Stone* is where MEMORIA first opens its eyes.
+If you came to this story through Book 3, or if you want to return to the beginning now that you know how it ends, *The Quantum Cross* is where MEMORIA first opens its eyes.
 
 A Harvard archaeologist. A 2,000-year-old tree. A quantum instrument that learned the difference between measuring a thing and receiving it.
 
-**[GET ROOTS IN STONE ON AMAZON]**
+**[GET THE QUANTUM CROSS ON AMAZON]**
 *(Replace this line with your Amazon buy link for Book 1)*
 
 ---
@@ -31,10 +31,10 @@ A Harvard archaeologist. A 2,000-year-old tree. A quantum instrument that learne
 
 ## The Complete Series
 
-**Roots in Stone** — Book 1 — *Available now in ebook and paperback*
+**The Quantum Cross** — Book 1 — *Available now in ebook and paperback*
 A quantum instrument reads a 2,000-year-old olive tree and finds something no one expected. A scientist must decide whether data and testimony are the same thing — or whether the difference matters more than her career.
 
-**[GET ROOTS IN STONE ON AMAZON]**
+**[GET THE QUANTUM CROSS ON AMAZON]**
 *(Replace this line with your Amazon buy link for Book 1)*
 
 **The Judas Rope** — Book 2 — *Available now in ebook and paperback*
@@ -43,7 +43,7 @@ The Vatican hands MEMORIA a rope from Akeldama — the field of blood. Sarah cat
 **[GET THE JUDAS ROPE ON AMAZON]**
 *(Replace this line with your Amazon buy link for Book 2)*
 
-**The Faithful Witness** — Book 3 — *You just finished it*
+**The Holding** — Book 3 — *You just finished it*
 The inquiry begins. The testimony is intact. The adversaries are looking. The chain has one more link to make.
 
 ---
