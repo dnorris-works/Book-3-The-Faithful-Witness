@@ -4,7 +4,7 @@
 
 The sun had already lost the hard edge of afternoon. It lay against the courtyard wall in a low, warm band that made the stone glow from within. The gate was closed. The olive trees in the field beyond were a darker green than the house, the color of things that have been both held and forgotten by light.
 
-Jessie had been in bed for a while. The thud of her feet on the stairs, the last words of her bedtime ritual, the rustle of a blanket — all of it had retreated into the house and left the courtyard with only its own sounds: the faint scrape of a breeze through fig leaves, the quiet settling of stone walls, the distant caw of a bird that had waited until the day had cooled enough to feel safe.
+Jessie had been in bed for a while. The thud of her feet on the stairs, the last words of her bedtime ritual, the rustle of a blanket: all of it had retreated into the house and left the courtyard with only its own sounds, the faint scrape of a breeze through fig leaves, the quiet settling of stone walls, the distant caw of a bird that had waited until the day had cooled enough to feel safe.
 
 Sarah and Daniel sat together on the low bench beneath the courtyard fig tree. The bench had been there before them, a strip of wood worn by hands and time. Daniel's shoulder leaned against her arm. Neither of them spoke at first. The pause between them had the quality of something deliberate. It was not silence because there was nothing to say. It was silence because there was something present that did not need to be named.
 
@@ -60,7 +60,7 @@ Daniel's laugh was quiet. "All the time."
 
 "No. I think he meant for us to know enough not to have to ask."
 
-There was a particular kind of trust in that. Not trust in a plan, but trust in a practice — that the practice of holding and passing and waiting would be enough. It made the silence between them something like an agreement.
+There was a particular kind of trust in that. Not trust in a plan, but trust in a practice: the practice of holding and passing and waiting would be enough. It made the silence between them something like an agreement.
 
 He shifted his weight on the bench. "I've been thinking about the checker as well. Chen said there was something new in the output. He couldn't explain it yet."
 

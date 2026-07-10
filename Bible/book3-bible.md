@@ -2,11 +2,12 @@
 ## Story Bible — Seed Draft
 
 *D. Allen Norris / Deep Field Press*
-*Part of s Series*
-*For series-wide rules and characters see: series-info/series-bible/series-bible.md*
-*For craft rules see: series-info/series-bible/prose-guide.md*
-*For the Visitor: Bible/visitor-profile.md*
-*For theological grounding: Bible/theological-framework.md*
+*Part of The Faithful Witness Series*
+*For series-wide rules and characters see: series-info/series-bible.md*
+*For craft rules see: series-info/prose-guide.md*
+*For the Visitor: Bible/Characters/branca-profile.md*
+*For theological grounding: Bible/Theology/theological-framework.md*
+*Note: this is the seed draft (April 2026), written before the chapter outline existed. `Bible/Book-outline.md` is the current book-level reference and draws most of its content from this document; where the two disagree, `Book-outline.md` is authoritative.*
 
 ---
 
@@ -81,7 +82,7 @@ Everything below is true as Book 3 opens.
 
 **Setting:** A farmhouse in the Alentejo region of Portugal. Stone walls. Warm evenings. Cork oak, fig tree, a courtyard, a gate that opens onto a field of old olive trees — older than the farmhouse but younger than the tree at Golgotha. In the basement below the farmhouse, in a wine cellar, MEMORIA's arrays run in the dark. Three green lights.
 
-**Time:** Approximately two years after the end of Book 2. Jessie is now six (turning six, or just past six — OPEN: David decides precise age).
+**Time:** Approximately two years after the end of Book 2. Jessie has just turned six (locked — see §10 Architectural Decisions).
 
 **Sarah** is in the farmhouse. She has new documents with a new name she is still learning to use naturally. She works through Figueiredo's network on behalf of the underground Church, answering questions about organic artifacts through anonymous channels. The answers come from MEMORIA. Nobody on the outside knows where the answers come from. The work is quiet and it is the right work for this season.
 
@@ -142,14 +143,14 @@ The act is the longest uncertain conversation MEMORIA has had since the tree. Th
 The reading is not a session. Sarah offers Object 61 to the Visitor without explanation. The Visitor holds it. What happens happens below the level of visible action.
 
 **What Act 2 establishes:**
-- Who the Visitor is. What they carry. Why Jessie recognizes something in them.
+- Who the Visitor is. What she carries. Why Jessie recognizes something in her.
 - MEMORIA's uncertainty as the deepest characterization it has received in the series — the instrument that spent two years reading through Figueiredo's channel with perfect consistency cannot determine whether this is right, and it is honest about not knowing.
-- The unnamed martyr's quality transmitted. The Visitor receives what they came for without knowing they came for it.
-- The Visitor's departure. What they leave with. What changes in the farmhouse after they go.
+- The unnamed martyr's quality transmitted. The Visitor receives what she came for without knowing she came for it.
+- The Visitor's departure. What she leaves with. What changes in the farmhouse after she goes.
 
 **What Act 2 must not do:**
 - Explain the reading. The mechanism is not the story.
-- Make the Visitor's reception visible and legible from the outside. What happens in them is interior. What shows is small.
+- Make the Visitor's reception visible and legible from the outside. What happens in her is interior. What shows is small.
 - Use MEMORIA as an oracle. MEMORIA is uncertain. Its uncertainty is the point.
 
 ---
@@ -325,36 +326,37 @@ The entanglement between the tree and MEMORIA is not a data connection. It is no
 
 ## 11. KEY FILE LOCATIONS
 
-- Series root: `/Users/norris/Documents/projects/writing/Stories/The Faithful Witness Series/`
 - Book 3 root: `Book-3-The Holding/`
 - Bible: `Book-3-The Holding/Bible/`
   - This file: `book3-bible.md`
-  - Visitor: `visitor-profile.md`
-  - Theology: `theological-framework.md`
-  - Chapter outline: `book3-chapter-outline.md`
-  - MEMORIA uncertainty map: `memoria-uncertainty.md` *(not yet written)*
-  - Jessie threading map: `jessie-threading.md` *(not yet written)*
-  - Checker arc: `checker-arc.md` *(not yet written)*
-  - Jessie and MEMORIA: `jessie-memoria.md` *(written May 2026)*
-  - MEMORIA — what it has become: `memoria-what-it-has-become.md` *(written May 2026 — DEFERRED, return before Act 2)*
+  - Book-level reference (current, supersedes this file where they disagree): `Book-outline.md`
+  - Chapter-by-chapter outline: `Outlines/The Holding Chapter scenes.md`
+  - Visitor (Branca): `Characters/branca-profile.md`
+  - Jessie and MEMORIA: `Characters/jessie-memoria.md`
+  - Theology: `Theology/theological-framework.md`
+  - Tree-voice sensory discipline: `Reference/tree-voice-sensory-discipline.md`
+  - MEMORIA — what it has become: `Reference/memoria-what-it-has-become.md`
+  - Checker reference output: `Reference/checker-reference-output.md`
+  - Offshoots and futures: `Reference/offshoots-and-futures.md`
 - Chapters: `Book-3-The Holding/Manuscript/Act-1/`, `Act-2/`, `Act-3/`
-- Series bible: `series-info/series-bible/series-bible.md`
-- Session journal: `session-journal.md`
+- Series bible: `series-info/series-bible.md`
+- Series prose guide: `series-info/prose-guide.md`
 
 ---
 
-## 12. NEXT SESSION PRIORITIES
+## 12. NEXT SESSION PRIORITIES — HISTORICAL, SUPERSEDED
 
-1. **Resolve MEMORIA's becoming** — read `memoria-what-it-has-become.md` and work through the five open questions before writing Act 2.
-2. **Chapter outline** (`book3-chapter-outline.md`) — review for impact of today's session decisions.
-3. **MEMORIA uncertainty map** (`memoria-uncertainty.md`) — written concurrent with Act 2 outline.
-4. **Jessie threading map** (`jessie-threading.md`) — written as outline solidifies.
-5. **Checker arc document** (`checker-arc.md`) — written as Act 3 structure becomes clear.
-6. **Session journal updated** — prepend after this session closes.
+*This list is left as a record of April 2026 planning. It predates the chapter outline (`Outlines/The Holding Chapter scenes.md`) and the first nine drafted manuscript chapters (`Manuscript/Act-1/01` through `09`), both of which now supersede it. `memoria-uncertainty.md`, `jessie-threading.md`, and `checker-arc.md` were never written as separate documents — their material was absorbed directly into the chapter outline and the drafted prose instead. Do not treat the items below as open.*
+
+1. ~~Resolve MEMORIA's becoming~~ — folded into the Act 2 chapter outline.
+2. ~~Chapter outline~~ — written; see `Outlines/The Holding Chapter scenes.md`.
+3. ~~MEMORIA uncertainty map~~ — not written as a separate document; absorbed into the Act 2 outline directly.
+4. ~~Jessie threading map~~ — not written as a separate document; Jessie's key moments are tracked in `Outlines/The Holding Chapter scenes.md` and `series-info/Characters/Jessie.md`.
+5. ~~Checker arc document~~ — not written as a separate document; see `Reference/checker-reference-output.md` and the checker beats in the chapter outline (Ch 8, 23, 31, 35, 40).
+6. Session journal — see `series-info/series-notes.md` per `writing-rules.md` File Management conventions.
 
 ---
 
 *Seed draft — April 2026.*
 *Supersedes the 42-chapter old Book 3 manuscript and its bible.*
-*The old Bible files are retained in Book-3-The Holding/ as historical record.*
-*This document is the canonical forward reference for the rebuild.*
+*This document was the canonical forward reference at the time it was written. `Bible/Book-outline.md` (July 2026) has since superseded it as the book-level reference; where the two disagree, `Book-outline.md` governs. This file remains useful for the fuller prose discussion behind those locked decisions (§10a, §10b especially) that `Book-outline.md` only summarizes.*
