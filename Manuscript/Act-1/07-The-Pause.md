@@ -12,7 +12,7 @@ Sarah and Daniel sat together on the low bench beneath the courtyard fig tree. T
 
 Sarah nodded. She had known about the call before the words were spoken. Knowing and saying were two different things.
 
-"He mentioned the archive," Daniel went on. "The one he donated the notes to — it's been catalogued."
+"He mentioned the archive," Daniel went on. "The one he donated the notes to. It's been catalogued."
 
 The sentence hung in the air between them. The word "catalogued" had a different weight, the way it did when something stopped being private and became part of a system. It was not the same as being lost, but it was close.
 
@@ -20,7 +20,7 @@ The sentence hung in the air between them. The word "catalogued" had a different
 
 Daniel looked at the field. The olive trees were in the kind of evening light that made them look as if they had been cut from an old painting.
 
-"He said they catalogued the notes. He didn't say what they found in them. He didn't say whether they understood."
+"He said they catalogued his notes. He didn't say what they found in them. He didn't say whether they understood."
 
 Sarah let that settle. The courtyard bench made a soft creak as she shifted slightly.
 
@@ -29,6 +29,10 @@ Sarah let that settle. The courtyard bench made a soft creak as she shifted slig
 "He does." Daniel's hand tightened once on her arm. "But he also knows the notes are the only record he could leave behind. Whatever the archive does with them, that's a piece of the story now."
 
 It was the way their lives had been measured for the past two years: not by what they chose to keep, but by what they chose to make available to the right people at the right time. The notes in the archive were a record of a life that had been lived under the pressure of holding. The fact that someone had catalogued them mattered. It meant the life had left a trace beyond the green lights and the cellar.
+
+"He sounded..." Daniel paused again, searching for the shape of the feeling. "He sounded like someone who has carried a thing too long to decide if anyone else should carry it."
+
+Sarah closed her eyes for a moment. The air tasted like the field and dry stone and the small sweetness of the fig tree leaves. She thought of the notebooks he had written in, the pages where a name had been crossed out and then left on the line because the crossing-out itself was a witness. She thought of the way the gate closed and opened, of the way the house had taken in people who were meant to pass through it and also meant to stay with it.
 
 "He was right to send her here," she said.
 

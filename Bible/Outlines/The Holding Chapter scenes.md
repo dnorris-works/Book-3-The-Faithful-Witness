@@ -2,6 +2,8 @@
 
 ## Complete Chapter Summaries + Detailed Scene Outlines for sudoWrite
 
+*For the book-level outline — premise, dramatic question, what each act must accomplish, locked endings — see `Bible/Book-outline.md`. This file contains chapter-by-chapter beats only.*
+
 D. Allen Norris / Deep Field Press
 Written: June 2026
 
