@@ -1,0 +1,66 @@
+---
+description: POV and tense conventions for Book 3 (The Holding) manuscript chapters
+globs: Manuscript/**/*.md
+alwaysApply: false
+---
+
+# POV and Tense — Book 3
+
+See `00-hierarchy.mdc` for the full tier chain. The Tree's voice is deliberately different in each book of the series (confirmed intentional) — this file governs Book 3 only.
+
+- Book 1 (`The Wood Remembers`): Tree narrates first-person, past tense.
+- Book 2 (`The Judas Rope`): no dedicated Tree/MEMORIA POV register shift — human POV, third-person, past tense throughout, with occasional MEMORIA-POV passages in the same grammar.
+- Book 3 (`The Holding`): Tree narrates close third-person, present tense — governed below.
+
+# Tense Split by POV
+
+- **Human POV chapters/scenes** (Sarah, Daniel, Chen, Kowalski, etc.): close third-person, **past tense**.
+- **The Tree's POV chapters/scenes**: close third-person, **present tense**.
+
+Never mix tense within a single chapter or scene. If a chapter needs to shift between a human POV and the Tree's POV, do it at a section break, not mid-scene, and let the tense shift mark the change in consciousness.
+
+**Section-break mark**: use a centered `***` on its own line between sections. (No section breaks have appeared in the manuscript yet — this is the default going forward; update this rule if a different convention gets used instead.)
+
+## Flashback / Memory Within a POV Scene
+
+Human POV chapters are past tense in the scene's present. When a character drops into memory or flashback mid-scene, do not shift to present tense to signal it — present tense is reserved for the Tree and would collide with that signal.
+
+Instead:
+- Open the flashback with one or two sentences in past-perfect ("had done," "had said") to mark the shift backward in time.
+- Ease into simple past for the body of the memory once the shift is established — a whole flashback in past-perfect reads stiff.
+- Return to simple past (not past-perfect) when the scene resurfaces in the present, with a clear beat (a sound, a physical sensation, a line of dialogue) marking the return.
+
+<good-example>
+Human POV, past tense (`Manuscript/Act-1/07-The-Pause.md`):
+
+"Kowalski called," Daniel said finally, his voice low enough that it did not disturb the night's first insects.
+</good-example>
+
+<good-example>
+Tree POV, present tense (`Manuscript/Act-1/01-Two Years.md`):
+
+The tree does not know what they are, precisely. Not in the way of names. ... What the tree knows is the quality of the lights: constant, green, cool.
+</good-example>
+
+<bad-example>
+Do not slip into present tense for a human POV chapter, or past tense for a Tree POV chapter:
+
+Daniel says finally, his voice low enough that it does not disturb the night's first insects.
+</bad-example>
+
+# Point of View
+
+- Default to close third-person limited: one character's consciousness per scene.
+- **Exception**: intimate two-character scenes (e.g., Sarah and Daniel together) may move between both characters' interiority within the same scene, since the scene's subject is the shared moment between them. This is allowed, not encouraged elsewhere.
+- Do not head-hop across more than two characters in a single scene, and never head-hop into a character who is not physically present in the scene.
+- When a new chapter opens, it should be clear within the first paragraph or two whose consciousness (which human, or the Tree) the reader is inside of — via a scene heading, an interior thought, or a distinctive perceptual style (e.g., the Tree's sensory, non-human register).
+- Before drafting a scene, cross-reference `/Users/norris/Writer/Authors/D Allen Norris/The Faithful Witness Series/series-info/Characters/` to confirm which characters are POV-eligible versus background-only. Not every named character has a profile yet — if a character lacks one and a POV scene is being considered for them, flag it rather than assuming.
+
+# The Tree's Register (Book 3 / Echad Era)
+
+Do not improvise the Tree's voice from general principles. Book 3 has a locked, detailed operational discipline that governs this exactly — read it before drafting any Tree-POV chapter or any scene where the Tree perceives through the echad:
+
+- `/Users/norris/Writer/Authors/D Allen Norris/The Faithful Witness Series/series-info/prose-guide.md` §2 — the series-wide baseline (physical sensation only, no smell, no academic theological vocabulary)
+- `Bible/Reference/tree-voice-sensory-discipline.md` (this book's own folder — relative path works since it's inside this project) — the Book 3 operational layer: the mechanism-naming ban, the veil-secret test, how the child and Object 61 are rendered, and the 10%-non-physical-sentence budget
+
+Both documents take precedence over any generic "Tree voice" guidance — including anything invented ad hoc in a chat session. If a suggested Tree passage conflicts with either document, the documents win.

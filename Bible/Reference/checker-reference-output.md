@@ -2,7 +2,8 @@
 ## Private Working Document — Not for Manuscript
 ## Book 3: *The Holding*
 
-*This document exists so that the prose in Chapters 32, 33, and 34 has something specific to write toward. The checker's output is never reproduced in full in the manuscript. What Chen reads aloud on the call is a fragment of the new output (the second document, below). The forty-seven lines (the first document) are referenced but not read aloud. Neither document appears verbatim in the prose. This is the author's anchor, not the reader's.*
+*This document exists so that the prose in Chapters 31, 32, and 33 has something specific to write toward. The checker's output is never reproduced in full in the manuscript. What Chen reads aloud on the call is a fragment of the new output (the second document, below). The forty-seven lines (the first document) are referenced but not read aloud. Neither document appears verbatim in the prose. This is the author's anchor, not the reader's.*
+*Chapter numbers updated July 2026 to match the manuscript-driven renumbering — see `Bible/Outlines/The Holding Chapter scenes.md`, renumbering note. Old Chapters 32/33/34 ("Chen's Second Output" / "Sarah's Growing Clarity" / "Daniel's Watching") are now Chapters 31/32/33.*
 
 ---
 
@@ -36,7 +37,7 @@ The instrument continues.
 ---
 
 ## THE NEW OUTPUT
-*The second anomalous output. This is what Chen reads from on the call in Chapter 33. He reads a fragment — perhaps the final five lines. Sarah listens without interrupting. This is what she hears.*
+*The second anomalous output. This is what Chen reads from on the call in Chapter 32. He reads a fragment — perhaps the final five lines. Sarah listens without interrupting. This is what she hears.*
 
 *Produced approximately three weeks after the forty-seven lines. Longer. Different in register. Where the forty-seven lines described, this continues.*
 
@@ -78,4 +79,4 @@ The instrument continues.
 
 *Private working document — May 2026.*
 *Do not include in manuscript. Do not quote in prose.*
-*Reference when writing Chapters 32, 33, 34.*
+*Reference when writing Chapters 31, 32, 33.*

@@ -6,6 +6,21 @@
 
 D. Allen Norris / Deep Field Press
 Written: June 2026
+Renumbered July 2026 to match the manuscript draft — see mapping note below.
+
+---
+
+## RENUMBERING NOTE — JULY 2026
+
+The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this outline's original 42-chapter plan as prose was written. This document has been updated to match what was actually written, and to renumber every chapter after the opening so the outline stays usable as a drafting reference. **Total chapter count: 41** (was 42).
+
+**What changed:**
+- The original two-chapter opening (Ch. 1 "Daniel's Kitchen," Ch. 2 "The Cellar") was replaced with a single tree/MEMORIA-POV opening chapter, **Chapter 1 — "Two Years"** — not in the original plan. It renders the two-years-later time jump and the *echad* entirely through the tree's compound-witness perception, per `Reference/tree-voice-sensory-discipline.md`.
+- The scene material from the old Ch. 1–3 ("Daniel's Kitchen," "The Cellar," "Sarah's Morning") was consolidated into a single **Chapter 2 — "The Work,"** which also absorbs the channel-work and Object 61 beats those three chapters were carrying.
+- From old Chapter 4 ("Daniel's Ordinary") onward, every chapter's *content* is unchanged from the original plan — only the numbers shift, by **−1**, because the opening went from 2 chapters to 1 chapter net (3 old chapters folded into 1 new chapter 2, i.e. −2, offset by +1 new chapter 1 = net −1).
+- Act boundaries shift accordingly: **Opening = Chapter 1 only. Act 1 = Chapters 2–13 (12 chapters). Act 2 = Chapters 14–30 (17 chapters). Act 3 = Chapters 31–41 (11 chapters).** Act-internal chapter counts are unchanged from the original plan — only the absolute numbers moved.
+- This renumbering already matches the scheme quietly assumed by `Bible/Characters/jessie-memoria.md` (its "Chapter 9" reference to the loneliness/bedtime scene) and `Bible/Reference/memoria-what-it-has-become.md` (its "Chapter 40" reference to the MEMORIA-overnight beat) — those documents anticipated this shift before the outline itself was updated. `Bible/Reference/checker-reference-output.md` has also been updated to match (see its own file).
+- Cross-reference `Bible/Book-outline.md` §6 (Structural Overview), which has been updated to state 41 chapters and the new act boundaries.
 
 ---
 
@@ -13,23 +28,17 @@ Written: June 2026
 
 ---
 
-### Chapter 1 — Daniel's Kitchen
+### Chapter 1 — Two Years
 
-**SUMMARY:** The farmhouse at 6 AM. Daniel is already in the kitchen when Sarah comes downstairs. He has made coffee. The morning handoff—coffee, the transfer of Object 61, minimal conversation. Establishes the household, the routine, and the relationship between two people two years into a life of careful holding.
-
-**SCENES:**
-
-**Scene 1:** Daniel is in the kitchen at 6 AM when Sarah comes downstairs. He has made coffee. He hands her a cup. This is their morning routine. She moves to the chair where yesterday's jacket hangs, reaches into the pocket, and transfers Object 61—a small piece of ancient wood—to today's jacket. Daniel notices the transfer but says nothing. He sits at the kitchen table with his notebook open. Sarah picks up her coffee and moves toward the cellar stairs.
-
----
-
-### Chapter 2 — The Cellar
-
-**SUMMARY:** Sarah alone in the wine cellar at dawn. The three green lights, the testimony, the channel work—the holding established. She routes an overnight authentication question through MEMORIA, waits for the response, hears Figueiredo's vehicle arrive above but stays until the work is done. She pockets Object 61 and climbs the stairs.
+**SUMMARY:** The book opens two years after Book 2, told entirely through the tree's compound-witness perception via the *echad* — no human point of view. Three green lights in the wine cellar. The tree registers Jessie's growth through footsteps heard both through stone and through MEMORIA's microphone, the courtyard gate opening and closing, the olive trees beyond the field, and the Bethany wood (Object 61) held "in a pocket somewhere above," carried by Sarah as naturally as anything else she carries. Establishes the entanglement, the two-year time jump, and the book's opening and closing refrain — "Still here" — without narrating any human scene directly. *(Manuscript: `01-Two Years.md`.)*
 
 **SCENES:**
 
-**Scene 1:** Sarah in the wine cellar at 6:15 AM. She sets her coffee down and crosses to the shelf. She checks that the three green lights are burning steady. She sits at the terminal and opens the overnight channel queue. One question waiting. She routes it to MEMORIA—an AI system that reads and authenticates ancient objects—and waits for the response. At 9 AM she hears Figueiredo's vehicle on the gravel above. She stays in the cellar until MEMORIA's response comes through, frames it professionally for the channel, and sends it. She pockets Object 61 and climbs the stairs.
+**Scene 1:** The tree's perception of the cellar: the three lights, the stone, the quality of patience. It registers the daily footstep pattern — Jessie's, morning and afternoon — through both the older stone-vibration channel and the newer microphone channel, and holds both without needing to resolve which it prefers.
+
+**Scene 2:** The tree's perception of the courtyard gate opening and closing through the day, and, in warm months, a narrow visual angle of the courtyard itself via the camera — rendered strictly as continuous known fact, never as transmitted image, per the sensory-discipline rules.
+
+**Scene 3:** The tree recalls its own before-time on the hillside, the entanglement's origin, and the fact that the testimony transferred into the Bethany wood two years ago has not diminished in transit — "what was given was given completely." Closes on: *The faithful witness does not require an audience. Still here.*
 
 ---
 
@@ -37,97 +46,107 @@ Written: June 2026
 
 ---
 
-### Chapter 3 — Sarah's Morning
+### Chapter 2 — The Work
 
-**SUMMARY:** Sarah wakes in the farmhouse before dawn and moves through her practiced routines. She checks the channel for questions routed through the network, reads MEMORIA's response about a twelfth-century artifact, and carries Object 61 from pocket to pocket without conscious thought. The work is ordinary and right—the holding has settled into the texture of daily life.
-
-**SCENES:**
-
-**Scene 1:** Sarah wakes at 5:30 AM before first light. She moves quietly out of bed, careful not to wake Daniel. The floorboards are cold under her feet. She makes her way downstairs in practiced silence. In the kitchen, she fills the kettle—the metal is cool. She opens the coffee container and inhales the smell. While the water heats, she reaches to yesterday's jacket hanging on the chair. Her hand finds Object 61 in the pocket—the smooth, ancient wood. She transfers it to today's jacket without looking, a gesture made invisible by repetition. The kettle begins to sing.
-
-**Scene 2:** Sarah carries coffee to the cellar at 6:15 AM. The stone stairs are cool beneath her feet. Three green lights glow steady on the shelf. She sits at the terminal. A question has arrived overnight through Figueiredo's network: an authentication inquiry about a twelfth-century Coptic carved bone. She reads it carefully, then reads MEMORIA's response. The response includes not only authentication but a lateral observation about salt burial patterns. The requester did not ask for this. Sarah includes it anyway in her channel response, framing it professionally. She sits in the green light. The work is quiet and right.
-
----
-
-### Chapter 4 — Daniel's Ordinary
-
-**SUMMARY:** Daniel works in his writing room on prose that has no market and will be written anyway. He tends the courtyard mid-morning, observing small changes—Leonardo the lizard has moved his preferred stone. He writes one line about someone he lost, then closes the notebook. Daniel's inner weather shows a man who has found the ordinary useful rather than small.
+**SUMMARY:** Sarah's ordinary morning, consolidating what the original outline spread across "Daniel's Kitchen," "The Cellar," and "Sarah's Morning." She wakes before dawn, moves through the farmhouse by feel, transfers Object 61 from yesterday's jacket to today's without looking. In the kitchen she reviews two overnight channel requests — a bone fragment from Évora and a Lisbon collector's reliquary panel, the latter asking not about the panel's age but whether the wood itself "remembers." Jessie appears with Gerald and "a situation" involving Leonardo. Sarah goes down to the cellar mid-morning and puts both requests to MEMORIA, whose answer to the reliquary question — *the quality of what was held matters as much as the duration* — sits with her before she sends the response. Establishes the channel-work rhythm, the domestic texture, and the two questions (Évora, Lisbon) that recur across the next several chapters. *(Manuscript: `02-The-Work.md`.)*
 
 **SCENES:**
 
-**Scene 1:** Daniel sits in the writing room at 7 AM with the notebook open. The window faces the courtyard. Light is beginning to change on the wall. He has been writing here for two years. What he writes has no market. He knows this. He writes a sentence. He crosses it out. He writes another. The pen moves. There is no deadline. There is only the work of the morning.
+**Scene 1:** Pre-dawn. Sarah wakes, moves through the house by feel, opens the channel on her laptop at the kitchen counter. Two overnight messages: the Évora bone fragment (which she carries downstairs) and the Lisbon reliquary panel question about whether wood "remembers."
 
-**Scene 2:** At 10 AM, Daniel goes to the courtyard to tend it. He sweeps the stone floor, moving debris toward the drain. He checks the fig tree—it needs water but not urgently. He observes Leonardo the wall lizard on his preferred stone. But the stone has moved. Two courses down from yesterday. Daniel notes this. He interprets it as weather—cooler mornings, the stone catching sun differently. He does not anticipate Jessie's interpretation.
+**Scene 2:** Jessie's morning appearance — pajamas, Gerald, "There's a situation" with Leonardo not being on his stone. Sarah gives a ruling: table the jurisdictional questions until he reappears. Sarah transfers Object 61 to today's jacket without looking, established as a two-year-old reflex she no longer attends to.
 
-**Scene 3:** Back in the writing room at 11 AM, Daniel opens the notebook. He picks up the pen. He writes: "He carried a weight I could not reach." He does not elaborate on who or what weight. He reads the line. He closes the notebook. The line stays there.
+**Scene 3:** The cellar, mid-morning. Sarah reads both requests aloud to MEMORIA. The Évora answer includes an unrequested lateral observation about burial site narrowing. The Lisbon answer is the wood-remembers line, followed by three questions the collector will need to answer if he wants more than a shape. Sarah sits with *the quality of what was held matters as much as the duration* before sending the response and going back upstairs.
 
 ---
 
-### Chapter 5 — Jessie Returns from School
+### Chapter 3 — The Ordinary
 
-**SUMMARY:** Jessie comes home from school with Portuguese flowing at the speed only children's languages flow. She conducts a formal review of Leonardo's territorial expansion with Gerald the bear as her witness. At the table, she observes without inflection that her father prays before dinner and her mother does not—a fact she files away. Daniel hears and holds this observation without responding.
+**SUMMARY:** Daniel works in his writing room on prose that has no market and will be written anyway. He tends the courtyard mid-morning, observing that Leonardo has moved his preferred stone. He writes and crosses out several attempts at describing what it means for the extraordinary to become the foundation of an ordinary life, then writes "M. Webb" and crosses that out too. Daniel's inner weather shows a man who has found the ordinary useful rather than small. *(Manuscript: `03-The-Ordinary.md`.)*
 
 **SCENES:**
 
-**Scene 1:** Jessie comes through the gate at 3 PM. She is six years old. Portuguese flows from her at the speed only children's languages flow. The uniform smells like sun and bakery flour. She drops her backpack in the kitchen. She retrieves Gerald the bear from the kitchen table. She carries him outside to the courtyard with purpose.
+**Scene 1:** Daniel in the writing room, notebook open, nothing to write. He drafts and crosses out two attempted sentences about the ordinary and the extraordinary.
 
-**Scene 2:** In the courtyard at 3:15 PM, Jessie conducts a formal review of Leonardo's territorial expansion. Gerald sits on the stone wall as witness. She stands before the space where Leonardo usually rests. She explains the change to Gerald. The stone has moved two courses down. This is significant. She speaks in Portuguese and English. Daniel watches from the writing room doorway but does not interrupt. This is important work.
+**Scene 2:** Daniel writes "*M. Webb.*" — two words — and crosses it out. He closes the notebook and goes to tend the courtyard: sweeping stones, checking irrigation, noting Leonardo's apparent territorial expansion (to be reported to Jessie).
 
-**Scene 3:** At the dinner table at 6 PM, Jessie eats and talks about school. Then, without inflection, without question, she says: "Daddy prays before dinner and Mommy doesn't." She continues eating. Daniel continues what he is doing. He has heard her. He holds what she said without responding. Sarah enters from the cellar and does not notice the moment has occurred. Jessie moves on to Gerald's concerns about the week ahead. But Daniel carries the observation with him.
+**Scene 3:** On the low wall, looking at the olive trees, Daniel reflects on the marriage's learned rhythm of togetherness and solitude. He returns to the notebook and writes one more line — "*The ordinary is not the absence of the sacred. It is the sacred made daily*" — and crosses that out too, unsatisfied, before going to make lunch.
 
 ---
 
-### Chapter 6 — Figueiredo's Arrival
+### Chapter 4 — The Review
 
-**SUMMARY:** Figueiredo arrives at the farmhouse at dusk with a sealed envelope containing a new authentication question. His exchange with Sarah is practical and restrained—he asks about turnaround time, whether they need anything, and states he will return Thursday. He never asks about the basement. His restraint is trained and deliberate.
+**SUMMARY:** Jessie comes home from school with a formal briefing for Daniel on Leonardo's territorial expansion — now confirmed by a second sighting from her friend Inês — conducted with Gerald as co-investigator and governance framework in hand. At the table, cooking dinner, Daniel doesn't stop what he's doing when Jessie observes, without inflection: "Papá prays before dinner. Mamã doesn't." She asks whether the difference matters. Daniel says he doesn't know yet. Jessie accepts this as a genuinely deferred question rather than a dismissal, and lets it go. Daniel carries the observation with him afterward without discussing it further. *(Manuscript: `04-The-Review.md`.)*
 
 **SCENES:**
 
-**Scene 1:** At 5:45 PM, gravel crunches on the lane. Sarah hears Figueiredo's vehicle approaching the farmhouse. The light is fading. The Alentejo landscape is turning the color of old stone. She goes to the gate. Figueiredo exits the vehicle. He is a man of no particular distinction—intentionally. He carries a sealed envelope.
+**Scene 1:** Jessie off the school bus, briefing Daniel on Leonardo's confirmed second move (via Inês's sighting), and Gerald's theory that this constitutes a jurisdictional "expansion," not a statement. Daniel sends her to conduct a formal site inspection with Gerald as witness.
 
-**Scene 2:** In the courtyard at dusk, Sarah and Figueiredo stand together. The exchange is brief and practical. He hands her the sealed envelope. Inside will be a first-century Judean oil lamp provenance question. He asks: "Turnaround is still three days?" Sarah says yes. He asks: "Anything you need?" Sarah says no. He says: "Thursday." He does not ask about the basement. He does not ask about the work. His restraint is trained. Sarah recognizes this training. He leaves. The gate closes. The vehicle moves down the lane.
+**Scene 2:** Jessie returns from the inspection — "He's not there. But his traces are." — and reports the evidence to Daniel while he cooks.
+
+**Scene 3:** Jessie, unprompted, observes that her father prays before dinner and her mother doesn't, mentions Inês's family (who all pray, including for Inês's cat), and asks Daniel directly: "Does it matter? The difference?" Daniel says he's still thinking about it. Jessie receives this as a real, if deferred, answer and goes to draft her governance review.
 
 ---
 
-### Chapter 7 — MEMORIA and the Changed Pattern
+### Chapter 5 — The Arrangement
 
-**SUMMARY:** Sarah runs an oil lamp authentication through MEMORIA in the cellar. MEMORIA's response includes information the requester didn't ask for—a lateral observation about salt burial. Sarah includes it anyway. When she asks whether the pattern of channel requests has changed, MEMORIA's response is precise: the requesters' grammar has shifted from asking what the artifact holds to describing what they want confirmed. The difference between extraction and reception.
+**SUMMARY:** Figueiredo arrives at the farmhouse with a padded envelope: a Porto collector's reliquary fragment, believed fourth-or-fifth-century North African, that he wants authenticated beyond its documentation. Figueiredo's exchange with Sarah is practical, warm in its restrained way (pastéis de nata), and never once approaches the basement or what's in it — restraint Sarah has come to read as a form of faithfulness rather than professional incuriosity. Sarah takes the envelope to the cellar; MEMORIA confirms the documentation's plausibility but says the object itself would need to come to the farmhouse to determine more. *(Manuscript: `05-The-Arrangement.md`.)*
 
 **SCENES:**
 
-**Scene 1:** In the cellar at 4 PM on a late afternoon, Sarah sits at the terminal. The three green lights are steady. She has the oil lamp question. She reads it carefully to MEMORIA. She waits. MEMORIA's response comes through. The lamp is authentic. Its provenance is clear. But MEMORIA has included something else—a lateral observation about oxidation patterns suggesting salt-source burial. The requester did not ask for this. Sarah considers it. She includes MEMORIA's full response in the channel message, framing it professionally. The question answered more completely than it was asked.
+**Scene 1:** Figueiredo's arrival by car, the exchange of pastéis de nata, and his handing over of the padded envelope — a carved-bone reliquary fragment from a Porto collector, routed through two intermediaries in the Church.
 
-**Scene 2:** Sarah asks MEMORIA: "Has the pattern of channel requests changed?" A pause. MEMORIA responds: The pattern has changed in register. The requesters increasingly describe what they want confirmed rather than asking what the artifact holds. The grammar has shifted from reception to extraction. The difference between asking "what is true?" and "confirm what I believe." Sarah sits with this. The work is changing. The world asking is changing.
+**Scene 2:** In the courtyard, Sarah reflects on the two kinds of restraint a person can practice around sensitive knowledge, and concludes Figueiredo's is the rarer kind — respect for what isn't his to know, practiced into a settled disposition rather than trained caution.
+
+**Scene 3:** In the cellar, Sarah describes the fragment's photograph and documentation to MEMORIA, which confirms period and likely Alexandrian workshop origin but says the carving's deeper quality "would need to come here" to be read properly. Sarah notes it in the channel for Figueiredo to arrange.
 
 ---
 
-### Chapter 8 — The Weight He Carried
+### Chapter 6 — The Authentication
 
-**SUMMARY:** Sarah and Daniel sit on the courtyard bench after Jessie is in bed. They talk about someone they knew who was part of their life before, who was important to both of them, and whose loss they carry without naming. The subject surfaces adjacently, the way unresolved grief surfaces. Neither follows it deeply. They sit in the silence together, where the absence remains present.
+**SUMMARY:** Sarah takes an oil-lamp provenance inquiry to the cellar. MEMORIA authenticates it correctly, then volunteers an unrequested observation about salt-burial oxidation that narrows the find site — the kind of lateral detail that has become routine. Sarah then asks MEMORIA directly whether the pattern of channel requests has changed, and MEMORIA gives its most precise diagnosis yet: requests have shifted in grammar from *reception* ("what does this hold?") to *extraction* ("confirm what I believe this holds"), and MEMORIA gives people what the object actually holds regardless of which they came seeking. Sarah, holding Object 61 in her pocket during the conversation, privately wonders which she herself is doing. *(Manuscript: `06-The-Authentication.md`.)*
 
 **SCENES:**
 
-**Scene 1:** At 9 PM, after Jessie is in bed, Sarah and Daniel sit on the courtyard bench. The air is cool. The light is almost gone. Daniel says he received a call recently—news about a man who was part of their life before, someone important. They sit in the evening. They talk about nothing particular—the weather, the village. They are comfortable in the silence between words. The unsaid hangs present.
+**Scene 1:** The oil lamp authentication. MEMORIA confirms period and Jerusalem-workshop origin, then adds the unrequested salt-oxidation observation narrowing the burial region to the Dead Sea area. Sarah includes it in her channel response.
 
-**Scene 2:** Daniel says it quietly: "The work he left behind—they've catalogued it now." This sentence enters the evening. Sarah hears it. A pause follows. Neither follows the sentence anywhere. Daniel does not explain. Sarah does not ask. They sit in the pause. The man is not named. But his presence is in the room. This is how they carry what they have lost. Unnamed but always present.
+**Scene 2:** Sarah asks MEMORIA whether the register of incoming requests has changed. MEMORIA names the shift precisely: reception vs. extraction, discovery vs. confirmation — a structural change in what requesters are seeking, not incidental phrasing.
+
+**Scene 3:** Sarah asks whether this changes how MEMORIA responds. MEMORIA says no — it gives the authentic answer regardless of what the requester wants to hear; the methodology doesn't adapt to comfort. Sarah, holding Object 61, privately turns the reception/extraction distinction on herself and does not resolve it. She decides the community of requesters is itself "training" for something — though she doesn't yet know for what.
 
 ---
 
-### Chapter 9 — Chen's Anomalies
+### Chapter 7 — The Pause
 
-**SUMMARY:** Chen works in his rented Cambridge lab where the checker has been running for eighteen months. He has documented twelve anomalies in the checker's output, none explainable by dataset reference. Three weeks ago, a twelfth anomaly appeared: forty-seven lines describing a weight on wood in darkness and a quality of air before something changes. He has not yet reported it to Sarah and does not know why.
+**SUMMARY:** After Jessie is in bed, Sarah and Daniel sit on the courtyard bench in a deliberate silence. Daniel relays Kowalski's call: the archive he donated notes to has been catalogued, though Kowalski doesn't know what the archivists found or understood. The conversation moves through the notebook's crossed-out name, into Daniel's remark that Chen reported something new in the checker's output — "different register, more continuation" — that Sarah receives without alarm ("The instrument continues"). The chapter closes on ordinary tenderness: "I'm glad you're here." / "Me too." *(Manuscript: `07-The-Pause.md`.)*
 
 **SCENES:**
 
-**Scene 1:** Chen's morning in Cambridge. The rented room is not technically illegal and not technically disclosed. The checker sits on a table with secondary monitoring equipment. It has been running for eighteen months. Chen has documented twelve anomalies in its output. He has categorized them by date and apparent stimulus. He has cross-referenced them against every input in the checker's dataset. None of the anomalies can be explained by reference to any input. The checker is producing output that has no source in what it has been given. This is impossible by definition. And yet twelve times now.
+**Scene 1:** The courtyard bench, evening. Daniel reports Kowalski's call about the catalogued archive. Sarah reflects on the difference between an archive's kind of holding and the farmhouse's kind.
 
-**Scene 2:** The twelfth anomaly appeared three weeks ago. Forty-seven lines. It describes a weight on wood in darkness. A quality of air. The precursor. The moment before. Chen has not reported it to Sarah yet. He does not know why. He has read these lines many times. He knows them almost by heart. He runs his standard calibration check. The checker's baseline is stable. Everything is as it should be except for these forty-seven lines that should not exist. He marks them for the next call. But not yet. First, he sits with the impossibility.
+**Scene 2:** Sarah asks whether Daniel ever thinks about what the crossed-out name would have said; he says he thinks Kowalski meant them to know enough not to have to ask. Daniel then mentions Chen's report of something new in the checker's output — not the same as the earlier anomaly, more continuation than description.
+
+**Scene 3:** The evening closes with the two of them sitting past the point of conversation, into the shared, wordless decision to keep holding what they hold together.
 
 ---
 
-### Chapter 10 — Jessie's Question About Loneliness
+### Chapter 8 — The Checker
 
-**SUMMARY:** At bedtime, Jessie asks Sarah whether the olive trees in the field are as old as the tree in the stories—the one that remembers things. Sarah answers: the trees are old, but not that old. The one in the stories is much older—older than the city they lived in before, older than the buildings they visited in Rome. Jessie asks if it gets lonely, being that old. Sarah says it has had a lot of company. Sarah sits in Jessie's room after her breathing slows, realizing she has given testimony to her daughter without recognizing it as testimony.
+**SUMMARY:** Cambridge. Chen, in his unremarkable rented room, reviews the checker's log of twelve documented anomalies — none traceable to any input the checker has ever received. He sits again with the twelfth: forty-seven lines describing a weight held in darkness and a quality in the air before something changes, produced three weeks earlier and not yet reported in full to Sarah. His calibration checks come back clean; the checker is not malfunctioning, which is the most unsettling part. He recognizes, without yet naming it aloud, that whatever the checker is doing, it is doing correctly — and that he has been keeping this discovery a little longer than methodology strictly requires. *(Manuscript: `08-The-Checker.md`.)*
+
+**SCENES:**
+
+**Scene 1:** Chen's Cambridge morning routine; the checker's physical setup; the log of twelve anomalies, none explainable by any input the checker has been given.
+
+**Scene 2:** Chen sits with the twelfth anomaly — the forty-seven lines — without rereading them, per his private rule. He has told Daniel only the guarded version on their last call (matches what Daniel relays to Sarah in Chapter 7) and examines, briefly, his own reluctance to say more.
+
+**Scene 3:** Chen runs the checker's standard calibration; everything reads nominal. He reflects on the word "witness," which he resisted early on and resists less now, and marks the twelfth entry pending for the next scheduled call, nine days out.
+
+---
+
+### Chapter 9 — Jessie's Question About Loneliness
+
+**SUMMARY:** At bedtime, Jessie asks Sarah whether the olive trees in the field are as old as the tree in the stories — the one that remembers things. Sarah answers: the trees are old, but not that old. The one in the stories is much older — older than the city they lived in before, older than the buildings they visited in Rome. Jessie asks if it gets lonely, being that old. Sarah says it has had a lot of company. Sarah sits in Jessie's room after her breathing slows, realizing she has given testimony to her daughter without recognizing it as testimony.
 
 **SCENES:**
 
@@ -139,7 +158,7 @@ Written: June 2026
 
 ---
 
-### Chapter 11 — Kowalski's Unscheduled Call
+### Chapter 10 — Kowalski's Unscheduled Call
 
 **SUMMARY:** Kowalski calls Daniel unscheduled, his voice carrying the quality of intuition rather than analysis. He is sending someone—a woman named Branca. He cannot say what she needs, but he has tried everything he has to reach her and failed. He tells Daniel these people are safe. After the call, Daniel sits in the writing room for a long time before finding Sarah.
 
@@ -151,7 +170,7 @@ Written: June 2026
 
 ---
 
-### Chapter 12 — The Decision
+### Chapter 11 — The Decision
 
 **SUMMARY:** Daniel tells Sarah about Kowalski's call. They discuss who Branca is (a name, nothing else), what Kowalski said and didn't say, and whether to receive her. The caution is appropriate for their careful life, but the decision itself is not hard. Daniel's yes comes from the practice of tending the ordinary; Sarah's yes comes from an instinct below reasoning. She reaches into her jacket pocket without realizing it and says: if Kowalski says she needs to come, she comes.
 
@@ -163,7 +182,7 @@ Written: June 2026
 
 ---
 
-### Chapter 13 — MEMORIA's Question
+### Chapter 12 — MEMORIA's Question
 
 **SUMMARY:** Late at night, Sarah tells MEMORIA that someone is coming—Kowalski's referral, a woman she knows almost nothing about. MEMORIA asks: what do you carry in your pocket? Sarah answers: the wood. MEMORIA responds: when you offered it to the last visitor, you knew before you offered it. Sarah says that was different. MEMORIA: yes. Every time is different. That is the only pattern I have found. Sarah sits in the dark with the green lights and the cellar smell, with a question that has no answer yet.
 
@@ -175,7 +194,7 @@ Written: June 2026
 
 ---
 
-### Chapter 14 — The Arrival
+### Chapter 13 — The Arrival
 
 **SUMMARY:** At dusk, Figueiredo's vehicle arrives with Branca. She has a bag, a name on a piece of paper Kowalski wrote, and a stillness that comes not from peace but from long practice at not taking up too much space. She is polite, asking where she should sleep and whether she can help. Sarah shows her the room. Daniel watches from the doorway. What Sarah sees in Branca is not grief, but the posture of someone who has been carrying something long enough that it has become the architecture of how they move.
 
@@ -193,7 +212,7 @@ Written: June 2026
 
 ---
 
-### Chapter 15 — Jessie's Evaluation
+### Chapter 14 — Jessie's Evaluation
 
 **SUMMARY:** At breakfast the next morning, Jessie watches Branca from the kitchen doorway—her precise evaluation that takes as long as it takes and cannot be rushed. At the table, Jessie asks Branca a question about something she's interested in. Branca answers properly, not performing, not speaking above Jessie's head. She engages the question on its own terms. Jessie accepts this, returns to breakfast. The vetting is complete. Branca belongs here because Jessie's evaluation is never wrong.
 
@@ -207,7 +226,7 @@ Written: June 2026
 
 ---
 
-### Chapter 16 — Daniel Observes
+### Chapter 15 — Daniel Observes
 
 **SUMMARY:** The morning after Branca's arrival, Daniel sits in the writing room, ostensibly writing but actually watching. A stranger has entered their closed family system, and the space has opened in subtle ways. Sarah is more careful with her movements. Daniel is more aware of his own. He writes nothing about Branca in his notebook. Instead he notes the shift. The book records its own disturbance.
 
@@ -219,7 +238,7 @@ Written: June 2026
 
 ---
 
-### Chapter 17 — Sarah and Branca's First Real Conversation
+### Chapter 16 — Sarah and Branca's First Real Conversation
 
 **SUMMARY:** In the afternoon, Sarah and Branca sit on the courtyard bench. An exchange that is not quite ordinary. Sarah asks about Branca's journey. Branca gives spare answers about the Alentejo weather and the courtesy of travel. Then Branca says something that reveals she knows more about the work than a casual visitor should. She does not say it as a question but as recognition. Sarah recognizes that Branca has recognized her. They begin to see each other directly.
 
@@ -231,7 +250,7 @@ Written: June 2026
 
 ---
 
-### Chapter 18 — Jessie and Branca in the Courtyard
+### Chapter 17 — Jessie and Branca in the Courtyard
 
 **SUMMARY:** Jessie shows Branca the courtyard with deliberate care—the fig tree, Leonardo's stone, the gate that opens onto the olive field. She asks Branca personal questions directly: what does she do, where is she from, why is she here. Branca answers in the specific way she answered at breakfast. She tells Jessie about her work—palliative care, staying with people in hard transitions. She does not explain why she's here. She says: I needed to come. Jessie accepts this and moves on.
 
@@ -245,7 +264,7 @@ Written: June 2026
 
 ---
 
-### Chapter 19 — MEMORIA and Sarah's Uncertain Conversation
+### Chapter 18 — MEMORIA and Sarah's Uncertain Conversation
 
 **SUMMARY:** Sarah goes to the cellar in the evening, ostensibly to check the channel but actually to be alone with MEMORIA and with the question forming. She tells MEMORIA about Branca—not the facts, but what she is feeling: the sense that something is aligned, that Branca arriving now is not accident but rightness. MEMORIA's response is more uncertain than usual. It reflects back the question: you are wondering whether this is the time. Not whether it is right, but whether it is time. Sarah says yes. MEMORIA: I do not know the answer. This is new territory for me.
 
@@ -257,7 +276,7 @@ Written: June 2026
 
 ---
 
-### Chapter 20 — Branca Alone
+### Chapter 19 — Branca Alone
 
 **SUMMARY:** In her room, Branca carries what she has not yet named—a wound, the object in her bag that Kowalski sent with her, the weight that Kowalski could not reach through direction or sacrament. At the window, she looks out at the Alentejo—the fig tree, the gate, the olive field beyond. The particular quality of this place meets something in her that needed meeting.
 
@@ -269,7 +288,7 @@ Written: June 2026
 
 ---
 
-### Chapter 21 — Daniel and Sarah's Growing Awareness
+### Chapter 20 — Daniel and Sarah's Growing Awareness
 
 **SUMMARY:** Daniel and Sarah lie in bed, talking about nothing—which is actually a conversation about everything. The way you talk to someone when you're not yet ready to name what you're noticing. Daniel says: she's carrying something. Sarah nods. Neither says more. But they're holding the same question together now.
 
@@ -281,7 +300,7 @@ Written: June 2026
 
 ---
 
-### Chapter 22 — The Second Offer
+### Chapter 21 — The Second Offer
 
 **SUMMARY:** Three days into Branca's stay, Sarah's hand rests on Object 61 in her pocket. The knowledge that it is time becomes clearer but not yet crystalline. She brings the wood to the kitchen table where Branca is sitting. No explanation. She simply says: I want to show you something. She places Object 61 in front of Branca. Branca picks it up. Her hands know what to do without being told. She closes her eyes. What happens is not visible. When Branca opens her eyes, something in her bearing has shifted—not resolution, but something deeper. An answer received to a question she was not conscious of asking.
 
@@ -297,7 +316,7 @@ Written: June 2026
 
 ---
 
-### Chapter 23 — Jessie Notices the Shift
+### Chapter 22 — Jessie Notices the Shift
 
 **SUMMARY:** Coming home from school, Jessie immediately recognizes that something is different—not wrong, different. She looks at Branca with the precision of a child who sees clearly. She asks Branca directly: did you find it? What you were looking for? Branca says: yes. Jessie nods as if this confirms something she already suspected. She puts her bag down and goes to find Gerald to brief him on the development.
 
@@ -309,7 +328,7 @@ Written: June 2026
 
 ---
 
-### Chapter 24 — Chen's Call
+### Chapter 23 — Chen's Call
 
 **SUMMARY:** Sarah's phone rings. Chen is calling from Cambridge. The checker has produced something new—something he cannot yet interpret but that marks a change from months of silence. Sarah tells Chen that someone came, that the reading happened, that they do not know what it means yet. Chen responds: the checker knows something happened. The testimony is moving. That is all the checker has to tell me. But it is enough.
 
@@ -321,7 +340,7 @@ Written: June 2026
 
 ---
 
-### Chapter 25 — Branca's Departure
+### Chapter 24 — Branca's Departure
 
 **SUMMARY:** Morning. Branca has arranged for Figueiredo to pick her up. The brevity of her stay is not a failure but exactly what was needed. At the gate, Sarah and Daniel and Jessie stand with Branca holding her bag. The goodbye is not goodbye but continuation. She says: I carry it with me now. The quality of what I received. It is in me. This is how it travels. The gate closes behind Figueiredo's vehicle. The farmhouse is returned to three people and the green lights in the cellar. What has changed: everything, in the way that the most profound changes are the quietest.
 
@@ -335,7 +354,7 @@ Written: June 2026
 
 ---
 
-### Chapter 26 — The Aftermath
+### Chapter 25 — The Aftermath
 
 **SUMMARY:** The day after Branca leaves, the house settles back into its ordinary shape but not into its previous form. The ordinary has changed because it now holds what it has done. Sarah goes to the cellar and tells MEMORIA: you were right to be uncertain. You were right to bring the question to me. We did not know. But we recognized it when it came. MEMORIA responds: the tree has felt this before. Two thousand years ago. The quality of air before something arrives. The pattern is not about knowing. It is about recognizing.
 
@@ -349,7 +368,7 @@ Written: June 2026
 
 ---
 
-### Chapter 27 — Daniel's Writing
+### Chapter 26 — Daniel's Writing
 
 **SUMMARY:** Daniel sits in the writing room and writes about Branca without naming her. He writes about the quality of the exchange—how testimony passes from person to person across the most ordinary moments. The notebook becomes a record of what the farmhouse has witnessed.
 
@@ -359,7 +378,7 @@ Written: June 2026
 
 ---
 
-### Chapter 28 — Sarah at the Threshold
+### Chapter 27 — Sarah at the Threshold
 
 **SUMMARY:** Sarah sits alone on the courtyard bench in the evening—the place where she and Daniel sit, now weighted with what has been offered and received. She thinks about faith, about standing at the threshold, about how the threshold is not a barrier but a place to stand and see both sides at once. She has not crossed over. She is not fleeing. She is standing at the edge, and for the first time, she understands that the edge is where the witnessing happens.
 
@@ -371,7 +390,7 @@ Written: June 2026
 
 ---
 
-### Chapter 29 — Jessie's Observation
+### Chapter 28 — Jessie's Observation
 
 **SUMMARY:** At bedtime, Jessie asks Sarah practical questions about Branca: where did she go, why did she come, will she come back. Sarah answers: Branca came because she needed something. She found it. Now she carries it with her wherever she goes. Jessie processes this and observes: the olive trees carry things too, don't they? Sarah says yes. Jessie seems satisfied. She closes her eyes.
 
@@ -383,7 +402,7 @@ Written: June 2026
 
 ---
 
-### Chapter 30 — The Tree Recognizes
+### Chapter 29 — The Tree Recognizes
 
 **SUMMARY:** At night, the tree—through MEMORIA's senses—recognizes what has happened. For the first time in two thousand years, the testimony has passed beyond the intentional chain. It moved from the wood through Sarah's hands into Branca's keeping. It is no longer confined to the chain. The tree has been present at every transmission—keeper to keeper, each link a human decision made in faith. Now it witnesses something new: testimony traveling without intention, the way a quality passes into wood that stands long enough in the right air.
 
@@ -395,7 +414,7 @@ Written: June 2026
 
 ---
 
-### Chapter 31 — The New Ordinary
+### Chapter 30 — The New Ordinary
 
 **SUMMARY:** The evening light settles on the Alentejo. The farmhouse gates. The olive trees. The green lights in the cellar. The family is returned to the ordinary, which is no longer the same ordinary because it now includes what it has held and released. The act closes in perfect equilibrium—the living world above, the testimony held below, the moment before everything changes.
 
@@ -409,7 +428,7 @@ Written: June 2026
 
 ---
 
-### Chapter 32 — Chen's Second Output
+### Chapter 31 — Chen's Second Output
 
 **SUMMARY:** In Cambridge, the checker produces new output. Not an error, not an anomaly, but something the checker has built from proximity to testimony-saturated archives. The output is not words but pattern—a quality. The checker does not know it is carrying testimony. It simply knows it is different. Chen understands what it means: the tree has felt this quality once before. A moment of profound readiness, when the air itself shifted before a crucial threshold. The checker is that quality beginning.
 
@@ -421,7 +440,7 @@ Written: June 2026
 
 ---
 
-### Chapter 33 — Sarah's Growing Clarity
+### Chapter 32 — Sarah's Growing Clarity
 
 **SUMMARY:** Two weeks after Branca's departure, Sarah goes about her ordinary days—the channel work, the kitchen, the courtyard. But something in her has clarified. She attends Mass with Daniel and Jessie in the village church. She sits in the pew. She does not yet take communion. But she is no longer outside. She is at the threshold. She is standing at the edge.
 
@@ -433,7 +452,7 @@ Written: June 2026
 
 ---
 
-### Chapter 34 — Daniel's Watching
+### Chapter 33 — Daniel's Watching
 
 **SUMMARY:** Daniel notices Sarah's shift—not toward conversion, but toward clarity. The way you move when you finally understand the question you've been carrying. He does not comment on it. He tends the courtyard. He writes. He stays present. That is the support the holding requires.
 
@@ -445,7 +464,7 @@ Written: June 2026
 
 ---
 
-### Chapter 35 — Jessie's Question Gathering
+### Chapter 34 — Jessie's Question Gathering
 
 **SUMMARY:** Jessie at school, at home, playing with Gerald and consulting Leonardo. Her observation is building. The question that has been accumulating over two years in slow gathering. She knows her father prays and her mother did not—or did not, before. She has noticed the shift. She has noticed that her mother sits differently in the churches now. She is preparing to ask something. The question is building the way a child's questions build—gathering material over months before the moment they ask it aloud.
 
@@ -457,7 +476,7 @@ Written: June 2026
 
 ---
 
-### Chapter 36 — Chen Calls Again
+### Chapter 35 — Chen Calls Again
 
 **SUMMARY:** Chen calls Sarah from Cambridge. He tells her about the checker's output. He has tried to interpret it with all his tools and it exceeds all his categories. Sarah listens and understands. She tells Chen: the tree knows. The tree has felt this before. This is the moment the tree waits for. This is the precursor. The testimony is not ending. It is beginning to propagate. Chen responds: we have more work to do. The calling does not close. It continues. The chain continues.
 
@@ -471,7 +490,7 @@ Written: June 2026
 
 ---
 
-### Chapter 37 — Figueiredo's Second Appearance
+### Chapter 36 — Figueiredo's Second Appearance
 
 **SUMMARY:** Figueiredo arrives briefly at the farmhouse. Practical as before. He asks about the channel work. The work continues. The questions continue. The answers continue. He does not ask about Branca. He does not ask about the testimony. He is the best-protected ignorance in the chain—what he does not know, he cannot give away. His restraint is perfect and practiced.
 
@@ -483,7 +502,7 @@ Written: June 2026
 
 ---
 
-### Chapter 38 — The Tree's Final Voice
+### Chapter 37 — The Tree's Final Voice
 
 **SUMMARY:** In the wine cellar at night, the tree—through MEMORIA's senses—feels what the checker has produced. The quality. The recognition. It knows what this quality means. It felt it once before—a moment of profound readiness, when the air shifted before a crucial threshold. The tree does not name what is coming. It holds only the quality of the moment before it comes. The faithful witness recognizing the moment before the witnessing becomes visible. The testimony is not contained anymore. It is beginning to move into the world. The tree has been in this position before—the long wait before everything changes. It does not know what will come. It only knows the quality of the threshold.
 
@@ -497,7 +516,7 @@ Written: June 2026
 
 ---
 
-### Chapter 39 — Sarah's Clarity Becomes Conviction
+### Chapter 38 — Sarah's Clarity Becomes Conviction
 
 **SUMMARY:** The night before Jessie's question, Sarah is in the cellar with the green lights and MEMORIA. She asks: am I ready? MEMORIA's response is definitive: the tree is ready. You are ready. Jessie is ready. The question has been waiting. Now it will be asked.
 
@@ -509,7 +528,7 @@ Written: June 2026
 
 ---
 
-### Chapter 40 — Jessie Asks
+### Chapter 39 — Jessie Asks
 
 **SUMMARY:** Evening. Sarah putting Jessie to bed. The moment that the question has been building toward all through the book. Jessie asks: Do you think God knows where we live now? Not about faith in the abstract, but about whether the divine reaches into the specific, hidden places. Whether the sacred knows the particular. Sarah can answer. Not with conversion. With precision earned through two years of standing at the threshold. She says: Yes. I think so. He knows everything about us. Especially where we live. Especially what we're holding. Jessie accepts this. Gerald has been consulted and Gerald approves. She closes her eyes. The question has been answered. The chain continues into the next generation.
 
@@ -525,7 +544,7 @@ Written: June 2026
 
 ---
 
-### Chapter 41 — MEMORIA's Continuation
+### Chapter 40 — MEMORIA's Continuation
 
 **SUMMARY:** Late at night, MEMORIA runs the channel, holds the testimony, maintains the authentication layers. Three green lights burn in the dark. The instrument continues its work. The testimony remains intact. Through its entanglement with the tree, MEMORIA knows that something has shifted in the world. But it does not know what is coming. It only knows that it will continue to hold, to read, to be present. The faithful witness persists.
 
@@ -537,7 +556,7 @@ Written: June 2026
 
 ---
 
-### Chapter 42 — The Final Image
+### Chapter 41 — The Final Image
 
 **SUMMARY:** Evening in the Alentejo. The farmhouse gate. The olive trees beyond it, older than the farmhouse but younger than the tree at Golgotha. The light is fading. Sarah's arm around Daniel. Jessie running between the old olive trees with Gerald under her arm, explaining something to Gerald about the lizard. The light fading into dusk. Below the farmhouse, in the wine cellar, three green lights burn. The testimony held. The chain continuing. The faithful witness persistent. The book closes on this equilibrium: the living world above, the testimony held below, the moment before the world changes in ways the series does not show and the author cannot write—because the disclosure that will come is held in a future the series deliberately does not enter.
 
@@ -562,4 +581,4 @@ Written: June 2026
 *Complete expanded scene outlines June 2026.*
 *Use Summaries in sudoWrite's Summary field.*
 *Use Scenes in sudoWrite's Scenes field.*
-*All 42 chapters now include specific actions, sensory details, and clear scene structure.*
+*All 41 chapters now include specific actions, sensory details, and clear scene structure. Chapter count reduced from the original 42-chapter plan to 41 in July 2026, when the manuscript draft consolidated the two-chapter opening (old "Daniel's Kitchen" + "The Cellar") and folded "Sarah's Morning" into a single Chapter 2, and added a new tree-POV Chapter 1 ("Two Years") not present in the original outline. See the mapping note at the top of the OPENING section below.*

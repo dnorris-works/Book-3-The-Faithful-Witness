@@ -167,18 +167,18 @@ The book closes on the three of them at the farmhouse gate, evening, Jessie runn
 
 ## 6. STRUCTURAL OVERVIEW
 
-**42 chapters total** (per `Outlines/The Holding Chapter scenes.md`, the current and complete chapter outline):
+**41 chapters total** (per `Outlines/The Holding Chapter scenes.md`, the current and complete chapter outline — renumbered July 2026 to match the manuscript draft):
 
-- Opening: Chapters 1–2 (Daniel's kitchen; the cellar)
-- Act 1 — Ordinary Days: Chapters 3–14
-- Act 2 — The Visitor: Chapters 15–31
-- Act 3 — The Holding: Chapters 32–42
+- Opening: Chapter 1 (the tree/MEMORIA-POV "Two Years")
+- Act 1 — Ordinary Days: Chapters 2–13
+- Act 2 — The Visitor: Chapters 14–30
+- Act 3 — The Holding: Chapters 31–41
 
 **Target word count:** ~80,000–86,000 words
 
 **Final line:** *The faithful witness persists.*
 
-*Note: an earlier, incomplete 41-chapter outline (April 2026) used a slightly different act mapping (Opening = ch. 1 only; Act 1 = ch. 2–13; Act 2 = ch. 14–30; Act 3 = ch. 31–41) and has since been superseded and removed. The 42-chapter structure above, and the chapter-by-chapter file it comes from, is the only chapter-level reference now in the Outlines folder.*
+*Note: the original 42-chapter plan (June 2026) opened with two human-POV chapters ("Daniel's Kitchen," "The Cellar") and folded "Sarah's Morning" in as a third. As prose was drafted, that opening was replaced with a single new tree-POV chapter ("Two Years," not in the original plan) and the old three-chapter opening's material was consolidated into one chapter ("The Work"), net −1 chapter overall. Every chapter from the original "Daniel's Ordinary" onward kept its content but shifted number by −1 to match. This is the same renumbering an earlier, since-superseded April 2026 41-chapter outline had already used (Opening = ch. 1 only; Act 1 = ch. 2–13; Act 2 = ch. 14–30; Act 3 = ch. 31–41) — the current structure has converged back onto it via the manuscript rather than by design. See the renumbering note at the top of `Outlines/The Holding Chapter scenes.md` for the full mapping.*
 
 ---
 
