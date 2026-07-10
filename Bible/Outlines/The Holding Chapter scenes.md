@@ -178,7 +178,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 1:** Daniel finds Sarah in the kitchen at 3:15 PM. He tells her what Kowalski said. What he said and what he did not say. They sit at the table. They talk about whether to receive Branca. The conversation is practical. They know the cost of their careful life. They know the risk. But the decision itself is not hard for either of them. They both know they will say yes before the conversation begins.
 
-**Scene 2:** Sarah says yes. Her yes comes from something below reasoning. It is an instinct that runs deeper than Daniel's yes, which comes from practice, from months of tending the ordinary. Sarah's yes comes from something she cannot name. She reaches into her jacket pocket without realizing she has done it. Her hand touches Object 61. She pulls her hand out. She says: "If Kowalski says she needs to come, she comes." This is her certainty.
+**Scene 2:** Sarah says yes. Her yes comes from something below reasoning. It is an instinct that runs deeper than Daniel's yes, which comes from practice, from months of tending the ordinary. Sarah's yes comes from something she cannot name. She reaches into her jacket pocket without realizing she has done it. Her hand touches Object 61. She pulls her hand out. She says: "If Kowalski says she needs to come, she comes." This is her certainty. *(Manuscript: `11-Decision.md`.)*
 
 ---
 
@@ -190,7 +190,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 1:** Late at night, at 11 PM, Sarah comes to the cellar. She tells MEMORIA that someone is coming. Kowalski's referral. A woman. She knows almost nothing. MEMORIA is quiet for longer than usual. Then it asks: "What do you carry in your pocket?" Sarah says: "The wood." MEMORIA: "When you offered it to the last visitor, you knew before you offered it." Sarah: "That was different." MEMORIA: "Yes. Every time is different. That is the only pattern I have found."
 
-**Scene 2:** The terminal is still. Sarah sits in the dark with the green lights and the cellar smell. The stone walls. The testimony held in this darkness. The question that has formed between her and MEMORIA. A question with no answer yet. MEMORIA has planted something: the awareness that Sarah knows things before she knows she knows them. That every time the offering happens, it is different, and yet there is a pattern underneath the difference.
+**Scene 2:** The terminal is still. Sarah sits in the dark with the green lights and the cellar smell. The stone walls. The testimony held in this darkness. The question that has formed between her and MEMORIA. A question with no answer yet. MEMORIA has planted something: the awareness that Sarah knows things before she knows she knows them. That every time the offering happens, it is different, and yet there is a pattern underneath the difference. *(Manuscript: `12-Question.md`.)*
 
 ---
 
@@ -204,7 +204,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 2:** Branca is polite. She greets Sarah. She asks where she should sleep. She asks whether there is anything she can help with. Her voice is measured. Her movements are careful. She takes up very little space. She has learned this over time. Sarah shows her the room at 6:15 PM. A simple room with a window facing the courtyard and the field beyond. Branca nods. She sets her bag on the bed.
 
-**Scene 3:** The farmhouse at 6:45 PM, evening. Jessie is already in bed. Daniel stands in the doorway of the writing room, watching. He watches the way Branca moves through space. He watches what Sarah sees when she looks at Branca. What Sarah sees is not grief. This is something else. This is the particular posture of someone who has been carrying something for long enough that the weight has become the architecture of how they move.
+**Scene 3:** The farmhouse at 6:45 PM, evening. Jessie is already in bed. Daniel stands in the doorway of the writing room, watching. He watches the way Branca moves through space. He watches what Sarah sees when she looks at Branca. What Sarah sees is not grief. This is something else. This is the particular posture of someone who has been carrying something for long enough that the weight has become the architecture of how they move. *(Manuscript: `13-Arrival.md`.)*
 
 ---
 
@@ -222,7 +222,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 2:** Jessie sits at the table at 8:15 AM. At some point during breakfast, she asks Branca a question. A real question about something Jessie is genuinely interested in. It might be about Leonardo's behavior or Gerald's governance or the Portuguese word for lizard. Branca answers properly. She does not perform. She does not speak above Jessie's head. She treats the question as real. She gives it her attention. Jessie listens. She nods. She returns to breakfast.
 
-**Scene 3:** Sarah watches from across the table and says nothing. She sees what has happened. Branca has been evaluated and found acceptable. The acceptance is not given lightly. Branca belongs here now. Because Jessie's evaluation is never wrong.
+**Scene 3:** Sarah watches from across the table and says nothing. She sees what has happened. Branca has been evaluated and found acceptable. The acceptance is not given lightly. Branca belongs here now. Because Jessie's evaluation is never wrong. *(Manuscript: `14-Evaluation.md`.)*
 
 ---
 
@@ -234,7 +234,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 1:** At 9 AM, morning after Branca's arrival. Daniel sits in the writing room with the notebook open. He is ostensibly writing but actually watching. A stranger has entered their closed family system. The space is different. It has opened. Sarah moves more carefully through the house. She is aware of herself in a way she was not before. Daniel is aware of his own movements. The three of them have had two years to settle into particular rhythms. Now there are four.
 
-**Scene 2:** Daniel opens the notebook. He picks up the pen. He does not write about Branca. He writes: "The book changes when someone enters it." He reads this line. He leaves it there. The notebook is recording the book's own disturbance. It is recording what happens when the system opens to receive someone new.
+**Scene 2:** Daniel opens the notebook. He picks up the pen. He does not write about Branca. He writes: "The book changes when someone enters it." He reads this line. He leaves it there. The notebook is recording the book's own disturbance. It is recording what happens when the system opens to receive someone new. *(Manuscript: `15-Observes.md`.)*
 
 ---
 
@@ -246,7 +246,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 1:** At 2 PM, afternoon. The courtyard. Sarah and Branca sit on the bench where Sarah and Daniel sit in the evenings. An exchange that is not quite ordinary. Sarah asks about Branca's journey. Branca gives spare answers about the Alentejo weather. The courtesy of travel. She speaks precisely. She does not offer information that was not asked for. Sarah listens. They sit together on the bench.
 
-**Scene 2:** At 2:30 PM, a pause. Then Branca says something. She says it quietly. She does not say it as a question. She says it as recognition. She says something about the work. Something that reveals she knows more about what happens here than a casual visitor should know. She has been told something by Kowalski. Sarah hears this. Sarah recognizes that Branca has recognized her. The moment where they begin to see each other directly.
+**Scene 2:** At 2:30 PM, a pause. Then Branca says something. She says it quietly. She does not say it as a question. She says it as recognition. She says something about the work. Something that reveals she knows more about what happens here than a casual visitor should know. She has been told something by Kowalski. Sarah hears this. Sarah recognizes that Branca has recognized her. The moment where they begin to see each other directly. *(Manuscript: `16-Conversation.md`.)*
 
 ---
 
@@ -260,7 +260,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 2:** At 3:30 PM, Jessie asks Branca personal questions. Directly. What does Branca do? Where is she from? Why is she here? Jessie at six is not interested in polite deflections. She asks the questions that matter.
 
-**Scene 3:** Branca answers in the specific way she answered at breakfast. She tells Jessie about the work she does. Palliative care. She stays with people in hard transitions. She helps them move through difficult passages. She does this work because people in transition need someone to stay. She does not explain why she is here. She says, simply: "I needed to come." Jessie accepts this. It makes sense to her. She nods. She moves on.
+**Scene 3:** Branca answers in the specific way she answered at breakfast. She tells Jessie about the work she does. Palliative care. She stays with people in hard transitions. She helps them move through difficult passages. She does this work because people in transition need someone to stay. She does not explain why she is here. She says, simply: "I needed to come." Jessie accepts this. It makes sense to her. She nods. She moves on. *(Manuscript: `17-Tour.md`.)*
 
 ---
 
@@ -272,7 +272,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 1:** At 7 PM, evening. Sarah comes to the cellar. She is there ostensibly to check the channel. There is a question waiting that needs to be routed. But actually, she is there to be alone with MEMORIA and with the question forming. She tells MEMORIA about Branca. Not the facts. MEMORIA does not need facts. But what Sarah is feeling: the sense that something is aligned. That Branca arriving now is not accident. That it is rightness.
 
-**Scene 2:** MEMORIA's response is more uncertain than usual. It does not answer directly. It reflects back the question: "You are wondering whether this is the time." Not whether it is right. Whether it is time. Sarah says yes. That is the question. MEMORIA says: "I do not know the answer. This is new territory for me." The admission hangs in the cellar air.
+**Scene 2:** MEMORIA's response is more uncertain than usual. It does not answer directly. It reflects back the question: "You are wondering whether this is the time." Not whether it is right. Whether it is time. Sarah says yes. That is the question. MEMORIA says: "I do not know the answer. This is new territory for me." The admission hangs in the cellar air. *(Manuscript: `18-Uncertain.md`.)*
 
 ---
 
@@ -284,7 +284,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 1:** At 8 PM, evening. Branca in her room. She sits on the edge of the bed. What she carries: a wound that has not yet been named. The object in her bag that Kowalski sent with her. The weight that Kowalski could not reach through direction or sacrament. Through prayer or conversation or any tool that Kowalski has. She has carried this weight for a long time. It has shaped her. It has become the architecture of her movement. She sits on the bed and holds the weight of it.
 
-**Scene 2:** At 8:30 PM, Branca moves to the window. She looks out at the Alentejo. The fig tree in the courtyard. The gate that opens onto the olive field. The light is fading. The landscape is turning the color of old stone. The particular quality of this place—the particular silence, the particular texture of the air, the way the light falls on the old trees—meets something in her that needed meeting. She stands at the window and breathes.
+**Scene 2:** At 8:30 PM, Branca moves to the window. She looks out at the Alentejo. The fig tree in the courtyard. The gate that opens onto the olive field. The light is fading. The landscape is turning the color of old stone. The particular quality of this place—the particular silence, the particular texture of the air, the way the light falls on the old trees—meets something in her that needed meeting. She stands at the window and breathes. *(Manuscript: `19-Alone.md`.)*
 
 ---
 
@@ -296,7 +296,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **Scene 1:** At 10 PM, night. Daniel and Sarah in bed. They lie in the dark. They talk about nothing. The day. The evening. The small things that happened. The way you talk when you're not yet ready to name what you're noticing. Branca is in the next room. Branca is in the farmhouse. Branca is changing something. They talk around it. They talk about weather and Jessie's school and the fig tree.
 
-**Scene 2:** At 10:30 PM, Daniel says it quietly: "She's carrying something." Sarah nods in the darkness. She feels Daniel beside her. She does not say more. He does not push. They hold the same awareness together in the darkness.
+**Scene 2:** At 10:30 PM, Daniel says it quietly: "She's carrying something." Sarah nods in the darkness. She feels Daniel beside her. She does not say more. He does not push. They hold the same awareness together in the darkness. *(Manuscript: `20-Awareness.md`.)*
 
 ---
 
