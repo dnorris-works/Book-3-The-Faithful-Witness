@@ -1,4 +1,4 @@
-# Chapter 2: The Work
+# Chapter 2: Work
 
 *The farmhouse. The Alentejo. A Tuesday in October.*
 

@@ -1,4 +1,4 @@
-# Chapter 8: The Checker
+# Chapter 8: Checker
 
 *A rented room. Cambridge. Morning.*
 

@@ -1,4 +1,4 @@
-# Chapter 3: The Ordinary
+# Chapter 3: Ordinary
 
 *The farmhouse. The Alentejo. Mid-morning.*
 

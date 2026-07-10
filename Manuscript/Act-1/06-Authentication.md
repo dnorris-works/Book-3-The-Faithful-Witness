@@ -1,4 +1,4 @@
-# Chapter 6: The Authentication
+# Chapter 6: Authentication
 
 *The farmhouse. The Alentejo. Late afternoon.*
 

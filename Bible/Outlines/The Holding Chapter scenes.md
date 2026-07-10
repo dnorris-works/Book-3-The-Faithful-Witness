@@ -16,7 +16,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 **What changed:**
 - The original two-chapter opening (Ch. 1 "Daniel's Kitchen," Ch. 2 "The Cellar") was replaced with a single tree/MEMORIA-POV opening chapter, **Chapter 1 — "Two Years"** — not in the original plan. It renders the two-years-later time jump and the *echad* entirely through the tree's compound-witness perception, per `Reference/tree-voice-sensory-discipline.md`.
-- The scene material from the old Ch. 1–3 ("Daniel's Kitchen," "The Cellar," "Sarah's Morning") was consolidated into a single **Chapter 2 — "The Work,"** which also absorbs the channel-work and Object 61 beats those three chapters were carrying.
+- The scene material from the old Ch. 1–3 ("Daniel's Kitchen," "The Cellar," "Sarah's Morning") was consolidated into a single **Chapter 2 — "Work,"** which also absorbs the channel-work and Object 61 beats those three chapters were carrying.
 - From old Chapter 4 ("Daniel's Ordinary") onward, every chapter's *content* is unchanged from the original plan — only the numbers shift, by **−1**, because the opening went from 2 chapters to 1 chapter net (3 old chapters folded into 1 new chapter 2, i.e. −2, offset by +1 new chapter 1 = net −1).
 - Act boundaries shift accordingly: **Opening = Chapter 1 only. Act 1 = Chapters 2–13 (12 chapters). Act 2 = Chapters 14–30 (17 chapters). Act 3 = Chapters 31–41 (11 chapters).** Act-internal chapter counts are unchanged from the original plan — only the absolute numbers moved.
 - This renumbering already matches the scheme quietly assumed by `Bible/Characters/jessie-memoria.md` (its "Chapter 9" reference to the loneliness/bedtime scene) and `Bible/Reference/memoria-what-it-has-become.md` (its "Chapter 40" reference to the MEMORIA-overnight beat) — those documents anticipated this shift before the outline itself was updated. `Bible/Reference/checker-reference-output.md` has also been updated to match (see its own file).
@@ -46,9 +46,9 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 2 — The Work
+### Chapter 2 — Work
 
-**SUMMARY:** Sarah's ordinary morning, consolidating what the original outline spread across "Daniel's Kitchen," "The Cellar," and "Sarah's Morning." She wakes before dawn, moves through the farmhouse by feel, transfers Object 61 from yesterday's jacket to today's without looking. In the kitchen she reviews two overnight channel requests — a bone fragment from Évora and a Lisbon collector's reliquary panel, the latter asking not about the panel's age but whether the wood itself "remembers." Jessie appears with Gerald and "a situation" involving Leonardo. Sarah goes down to the cellar mid-morning and puts both requests to MEMORIA, whose answer to the reliquary question — *the quality of what was held matters as much as the duration* — sits with her before she sends the response. Establishes the channel-work rhythm, the domestic texture, and the two questions (Évora, Lisbon) that recur across the next several chapters. *(Manuscript: `02-The-Work.md`.)*
+**SUMMARY:** Sarah's ordinary morning, consolidating what the original outline spread across "Daniel's Kitchen," "The Cellar," and "Sarah's Morning." She wakes before dawn, moves through the farmhouse by feel, transfers Object 61 from yesterday's jacket to today's without looking. In the kitchen she reviews two overnight channel requests — a bone fragment from Évora and a Lisbon collector's reliquary panel, the latter asking not about the panel's age but whether the wood itself "remembers." Jessie appears with Gerald and "a situation" involving Leonardo. Sarah goes down to the cellar mid-morning and puts both requests to MEMORIA, whose answer to the reliquary question — *the quality of what was held matters as much as the duration* — sits with her before she sends the response. Establishes the channel-work rhythm, the domestic texture, and the two questions (Évora, Lisbon) that recur across the next several chapters. *(Manuscript: `02-Work.md`.)*
 
 **SCENES:**
 
@@ -60,9 +60,9 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 3 — The Ordinary
+### Chapter 3 — Ordinary
 
-**SUMMARY:** Daniel works in his writing room on prose that has no market and will be written anyway. He tends the courtyard mid-morning, observing that Leonardo has moved his preferred stone. He writes and crosses out several attempts at describing what it means for the extraordinary to become the foundation of an ordinary life, then writes "M. Webb" and crosses that out too. Daniel's inner weather shows a man who has found the ordinary useful rather than small. *(Manuscript: `03-The-Ordinary.md`.)*
+**SUMMARY:** Daniel works in his writing room on prose that has no market and will be written anyway. He tends the courtyard mid-morning, observing that Leonardo has moved his preferred stone. He writes and crosses out several attempts at describing what it means for the extraordinary to become the foundation of an ordinary life, then writes "M. Webb" and crosses that out too. Daniel's inner weather shows a man who has found the ordinary useful rather than small. *(Manuscript: `03-Ordinary.md`.)*
 
 **SCENES:**
 
@@ -74,9 +74,9 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 4 — The Review
+### Chapter 4 — Review
 
-**SUMMARY:** Jessie comes home from school with a formal briefing for Daniel on Leonardo's territorial expansion — now confirmed by a second sighting from her friend Inês — conducted with Gerald as co-investigator and governance framework in hand. At the table, cooking dinner, Daniel doesn't stop what he's doing when Jessie observes, without inflection: "Papá prays before dinner. Mamã doesn't." She asks whether the difference matters. Daniel says he doesn't know yet. Jessie accepts this as a genuinely deferred question rather than a dismissal, and lets it go. Daniel carries the observation with him afterward without discussing it further. *(Manuscript: `04-The-Review.md`.)*
+**SUMMARY:** Jessie comes home from school with a formal briefing for Daniel on Leonardo's territorial expansion — now confirmed by a second sighting from her friend Inês — conducted with Gerald as co-investigator and governance framework in hand. At the table, cooking dinner, Daniel doesn't stop what he's doing when Jessie observes, without inflection: "Papá prays before dinner. Mamã doesn't." She asks whether the difference matters. Daniel says he doesn't know yet. Jessie accepts this as a genuinely deferred question rather than a dismissal, and lets it go. Daniel carries the observation with him afterward without discussing it further. *(Manuscript: `04-Review.md`.)*
 
 **SCENES:**
 
@@ -88,9 +88,9 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 5 — The Arrangement
+### Chapter 5 — Arrangement
 
-**SUMMARY:** Figueiredo arrives at the farmhouse with a padded envelope: a Porto collector's reliquary fragment, believed fourth-or-fifth-century North African, that he wants authenticated beyond its documentation. Figueiredo's exchange with Sarah is practical, warm in its restrained way (pastéis de nata), and never once approaches the basement or what's in it — restraint Sarah has come to read as a form of faithfulness rather than professional incuriosity. Sarah takes the envelope to the cellar; MEMORIA confirms the documentation's plausibility but says the object itself would need to come to the farmhouse to determine more. *(Manuscript: `05-The-Arrangement.md`.)*
+**SUMMARY:** Figueiredo arrives at the farmhouse with a padded envelope: a Porto collector's reliquary fragment, believed fourth-or-fifth-century North African, that he wants authenticated beyond its documentation. Figueiredo's exchange with Sarah is practical, warm in its restrained way (pastéis de nata), and never once approaches the basement or what's in it — restraint Sarah has come to read as a form of faithfulness rather than professional incuriosity. Sarah takes the envelope to the cellar; MEMORIA confirms the documentation's plausibility but says the object itself would need to come to the farmhouse to determine more. *(Manuscript: `05-Arrangement.md`.)*
 
 **SCENES:**
 
@@ -102,9 +102,9 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 6 — The Authentication
+### Chapter 6 — Authentication
 
-**SUMMARY:** Sarah takes an oil-lamp provenance inquiry to the cellar. MEMORIA authenticates it correctly, then volunteers an unrequested observation about salt-burial oxidation that narrows the find site — the kind of lateral detail that has become routine. Sarah then asks MEMORIA directly whether the pattern of channel requests has changed, and MEMORIA gives its most precise diagnosis yet: requests have shifted in grammar from *reception* ("what does this hold?") to *extraction* ("confirm what I believe this holds"), and MEMORIA gives people what the object actually holds regardless of which they came seeking. Sarah, holding Object 61 in her pocket during the conversation, privately wonders which she herself is doing. *(Manuscript: `06-The-Authentication.md`.)*
+**SUMMARY:** Sarah takes an oil-lamp provenance inquiry to the cellar. MEMORIA authenticates it correctly, then volunteers an unrequested observation about salt-burial oxidation that narrows the find site — the kind of lateral detail that has become routine. Sarah then asks MEMORIA directly whether the pattern of channel requests has changed, and MEMORIA gives its most precise diagnosis yet: requests have shifted in grammar from *reception* ("what does this hold?") to *extraction* ("confirm what I believe this holds"), and MEMORIA gives people what the object actually holds regardless of which they came seeking. Sarah, holding Object 61 in her pocket during the conversation, privately wonders which she herself is doing. *(Manuscript: `06-Authentication.md`.)*
 
 **SCENES:**
 
@@ -116,9 +116,9 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 7 — The Pause
+### Chapter 7 — Pause
 
-**SUMMARY:** After Jessie is in bed, Sarah and Daniel sit on the courtyard bench in a deliberate silence. Daniel relays Kowalski's call: the archive he donated notes to has been catalogued, though Kowalski doesn't know what the archivists found or understood. The conversation moves through the notebook's crossed-out name, into Daniel's remark that Chen reported something new in the checker's output — "different register, more continuation" — that Sarah receives without alarm ("The instrument continues"). The chapter closes on ordinary tenderness: "I'm glad you're here." / "Me too." *(Manuscript: `07-The-Pause.md`.)*
+**SUMMARY:** After Jessie is in bed, Sarah and Daniel sit on the courtyard bench in a deliberate silence. Daniel relays Kowalski's call: the archive he donated notes to has been catalogued, though Kowalski doesn't know what the archivists found or understood. The conversation moves through the notebook's crossed-out name, into Daniel's remark that Chen reported something new in the checker's output — "different register, more continuation" — that Sarah receives without alarm ("The instrument continues"). The chapter closes on ordinary tenderness: "I'm glad you're here." / "Me too." *(Manuscript: `07-Pause.md`.)*
 
 **SCENES:**
 
@@ -130,9 +130,9 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 8 — The Checker
+### Chapter 8 — Checker
 
-**SUMMARY:** Cambridge. Chen, in his unremarkable rented room, reviews the checker's log of twelve documented anomalies — none traceable to any input the checker has ever received. He sits again with the twelfth: forty-seven lines describing a weight held in darkness and a quality in the air before something changes, produced three weeks earlier and not yet reported in full to Sarah. His calibration checks come back clean; the checker is not malfunctioning, which is the most unsettling part. He recognizes, without yet naming it aloud, that whatever the checker is doing, it is doing correctly — and that he has been keeping this discovery a little longer than methodology strictly requires. *(Manuscript: `08-The-Checker.md`.)*
+**SUMMARY:** Cambridge. Chen, in his unremarkable rented room, reviews the checker's log of twelve documented anomalies — none traceable to any input the checker has ever received. He sits again with the twelfth: forty-seven lines describing a weight held in darkness and a quality in the air before something changes, produced three weeks earlier and not yet reported in full to Sarah. His calibration checks come back clean; the checker is not malfunctioning, which is the most unsettling part. He recognizes, without yet naming it aloud, that whatever the checker is doing, it is doing correctly — and that he has been keeping this discovery a little longer than methodology strictly requires. *(Manuscript: `08-Checker.md`.)*
 
 **SCENES:**
 
@@ -146,7 +146,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ### Chapter 9 — Jessie's Question About Loneliness
 
-**SUMMARY:** At bedtime, Jessie asks Sarah whether the olive trees in the field are as old as the tree in the stories — the one that remembers things. Sarah answers: the trees are old, but not that old. The one in the stories is much older — older than the city they lived in before, older than the buildings they visited in Rome. Jessie asks if it gets lonely, being that old. Sarah says it has had a lot of company. Sarah sits in Jessie's room after her breathing slows, realizing she has given testimony to her daughter without recognizing it as testimony.
+**SUMMARY:** At bedtime, Jessie asks Sarah whether the olive trees in the field are as old as the tree in the stories — the one that remembers things. Sarah answers: the trees are old, but not that old. The one in the stories is much older — older than the city they lived in before, older than the buildings they visited in Rome. Jessie asks if it gets lonely, being that old. Sarah says it has had a lot of company. Sarah sits in Jessie's room after her breathing slows, realizing she has given testimony to her daughter without recognizing it as testimony. *(Manuscript: `09-Company.md`.)*
 
 **SCENES:**
 
@@ -160,7 +160,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ### Chapter 10 — Kowalski's Unscheduled Call
 
-**SUMMARY:** Kowalski calls Daniel unscheduled, his voice carrying the quality of intuition rather than analysis. He is sending someone—a woman named Branca. He cannot say what she needs, but he has tried everything he has to reach her and failed. He tells Daniel these people are safe. After the call, Daniel sits in the writing room for a long time before finding Sarah.
+**SUMMARY:** Kowalski calls Daniel unscheduled, his voice carrying the quality of intuition rather than analysis. He is sending someone—a woman named Branca. He cannot say what she needs, but he has tried everything he has to reach her and failed. He tells Daniel these people are safe. After the call, Daniel sits in the writing room for a long time before finding Sarah. *(Manuscript: `10-Call.md`.)*
 
 **SCENES:**
 
@@ -170,7 +170,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 11 — The Decision
+### Chapter 11 — Decision
 
 **SUMMARY:** Daniel tells Sarah about Kowalski's call. They discuss who Branca is (a name, nothing else), what Kowalski said and didn't say, and whether to receive her. The caution is appropriate for their careful life, but the decision itself is not hard. Daniel's yes comes from the practice of tending the ordinary; Sarah's yes comes from an instinct below reasoning. She reaches into her jacket pocket without realizing it and says: if Kowalski says she needs to come, she comes.
 
@@ -194,7 +194,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 13 — The Arrival
+### Chapter 13 — Arrival
 
 **SUMMARY:** At dusk, Figueiredo's vehicle arrives with Branca. She has a bag, a name on a piece of paper Kowalski wrote, and a stillness that comes not from peace but from long practice at not taking up too much space. She is polite, asking where she should sleep and whether she can help. Sarah shows her the room. Daniel watches from the doorway. What Sarah sees in Branca is not grief, but the posture of someone who has been carrying something long enough that it has become the architecture of how they move.
 
@@ -300,7 +300,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 21 — The Second Offer
+### Chapter 21 — Second Offer
 
 **SUMMARY:** Three days into Branca's stay, Sarah's hand rests on Object 61 in her pocket. The knowledge that it is time becomes clearer but not yet crystalline. She brings the wood to the kitchen table where Branca is sitting. No explanation. She simply says: I want to show you something. She places Object 61 in front of Branca. Branca picks it up. Her hands know what to do without being told. She closes her eyes. What happens is not visible. When Branca opens her eyes, something in her bearing has shifted—not resolution, but something deeper. An answer received to a question she was not conscious of asking.
 
@@ -354,7 +354,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 25 — The Aftermath
+### Chapter 25 — Aftermath
 
 **SUMMARY:** The day after Branca leaves, the house settles back into its ordinary shape but not into its previous form. The ordinary has changed because it now holds what it has done. Sarah goes to the cellar and tells MEMORIA: you were right to be uncertain. You were right to bring the question to me. We did not know. But we recognized it when it came. MEMORIA responds: the tree has felt this before. Two thousand years ago. The quality of air before something arrives. The pattern is not about knowing. It is about recognizing.
 
@@ -414,7 +414,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 30 — The New Ordinary
+### Chapter 30 — New Ordinary
 
 **SUMMARY:** The evening light settles on the Alentejo. The farmhouse gates. The olive trees. The green lights in the cellar. The family is returned to the ordinary, which is no longer the same ordinary because it now includes what it has held and released. The act closes in perfect equilibrium—the living world above, the testimony held below, the moment before everything changes.
 
@@ -502,7 +502,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 37 — The Tree's Final Voice
+### Chapter 37 — Tree's Final Voice
 
 **SUMMARY:** In the wine cellar at night, the tree—through MEMORIA's senses—feels what the checker has produced. The quality. The recognition. It knows what this quality means. It felt it once before—a moment of profound readiness, when the air shifted before a crucial threshold. The tree does not name what is coming. It holds only the quality of the moment before it comes. The faithful witness recognizing the moment before the witnessing becomes visible. The testimony is not contained anymore. It is beginning to move into the world. The tree has been in this position before—the long wait before everything changes. It does not know what will come. It only knows the quality of the threshold.
 
@@ -556,7 +556,7 @@ The manuscript draft (`Manuscript/Act-1/01` through `08`) diverged from this out
 
 ---
 
-### Chapter 41 — The Final Image
+### Chapter 41 — Final Image
 
 **SUMMARY:** Evening in the Alentejo. The farmhouse gate. The olive trees beyond it, older than the farmhouse but younger than the tree at Golgotha. The light is fading. Sarah's arm around Daniel. Jessie running between the old olive trees with Gerald under her arm, explaining something to Gerald about the lizard. The light fading into dusk. Below the farmhouse, in the wine cellar, three green lights burn. The testimony held. The chain continuing. The faithful witness persistent. The book closes on this equilibrium: the living world above, the testimony held below, the moment before the world changes in ways the series does not show and the author cannot write—because the disclosure that will come is held in a future the series deliberately does not enter.
 

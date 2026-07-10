@@ -1,4 +1,4 @@
-# Chapter 9: The Company
+# Chapter 9: Company
 
 *Jessie's room. The Alentejo. Evening.*
 

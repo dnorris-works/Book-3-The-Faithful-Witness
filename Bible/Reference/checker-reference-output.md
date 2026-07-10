@@ -3,7 +3,7 @@
 ## Book 3: *The Holding*
 
 *This document exists so that the prose in Chapters 8, 31, and 35 has something specific to write toward. The checker's output is never reproduced in full in the manuscript. What Chen reads aloud on the call is a fragment of the new output (the second document, below). The forty-seven lines (the first document) are referenced but not read aloud. Neither document appears verbatim in the prose. This is the author's anchor, not the reader's.*
-*Chapter numbers updated July 2026 to match the manuscript-driven renumbering — see `Bible/Outlines/The Holding Chapter scenes.md`, renumbering note. Per the current chapter outline: Chapter 8 ("The Checker") is where Chen sits with the forty-seven lines; Chapter 31 ("Chen's Second Output") is where Chen reads the new output alone in Cambridge; Chapter 35 ("Chen Calls Again") is the call to Sarah referenced throughout this document.*
+*Chapter numbers updated July 2026 to match the manuscript-driven renumbering — see `Bible/Outlines/The Holding Chapter scenes.md`, renumbering note. Per the current chapter outline: Chapter 8 ("Checker") is where Chen sits with the forty-seven lines; Chapter 31 ("Chen's Second Output") is where Chen reads the new output alone in Cambridge; Chapter 35 ("Chen Calls Again") is the call to Sarah referenced throughout this document.*
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 7: The Pause
+# Chapter 7: Pause
 
 *The courtyard. The Alentejo. Evening.*
 

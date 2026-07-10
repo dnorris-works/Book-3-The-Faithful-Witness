@@ -1,4 +1,4 @@
-# Chapter 5: The Arrangement
+# Chapter 5: Arrangement
 
 *The farmhouse. The Alentejo. Morning.*
 
