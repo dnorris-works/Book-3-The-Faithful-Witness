@@ -104,7 +104,7 @@ The authentication work was simple in its mechanics and complex in everything el
 
 It was good work. Necessary work. And increasingly, Sarah understood, it was also training. For the moment when someone would come to them with a question they were fully prepared to receive an answer to, whatever that answer turned out to be.
 
-She took Object 61 from her pocket and held it for a moment in the green-lit cellar. Not a session. Not intention. Just the weight of it, the presence of it, while she thought about reception and extraction and the difference between seeking confirmation and seeking truth.
+She took Object 61 from her pocket and held it for a moment in the green-lit cellar. No session opened, no intention behind it, just the weight of it, the presence of it, while she thought about reception and extraction and the difference between seeking confirmation and seeking truth.
 
 When she was ready, she put it back and went upstairs to help with dinner.
 

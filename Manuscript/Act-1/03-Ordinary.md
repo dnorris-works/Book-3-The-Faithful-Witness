@@ -4,7 +4,7 @@
 
 Daniel sat in the smaller room with the notebook open on the desk and nothing to write.
 
-This happened more often than he had expected when he first claimed the room: the blankness, the sense of sitting at the edge of something he could not quite see. Not writer's block. Something different. The feeling of being present to a story that was still forming, still deciding what it wanted to be, and his job was to wait until it was ready to tell him.
+This happened more often than he had expected when he first claimed the room: the blankness, the sense of sitting at the edge of something he could not quite see. It had none of the friction he remembered from deadline years, no rising panic at a page that refused to fill. This was closer to the feeling of being present to a story that was still forming, still deciding what it wanted to be, and his job was to wait until it was ready to tell him.
 
 The room was the right size for waiting. Small enough that he could not pace, which meant he had to sit with the not-knowing instead of walking around it. Large enough that the desk did not feel cramped, that the notebook could lie open without competing for space with the coffee cup or the small stack of books he kept there, not research, exactly, but the kind of books that helped him remember what good sentences looked like when he was having trouble making them himself.
 
@@ -16,9 +16,9 @@ He looked back at the notebook.
 
 The page was blank except for the date at the top and a single line he had written twenty minutes ago and then stared at without adding to: *What it looks like when a life settles into itself.*
 
-That was the thing he was trying to write around, he thought. Not the Rome story: that was finished, in the sense that it had happened and been survived and did not need to be written because it belonged to Sarah and MEMORIA and the testimony, not to him. Not journalism, which required a different kind of attention and a different relationship to time than he had access to now. Something slower. Something that could hold the weight of what the last two years had been without trying to explain it.
+That was the thing he was trying to write around, he thought. The Rome story was finished, in the sense that it had happened and been survived and did not need to be written because it belonged to Sarah and MEMORIA and the testimony, not to him. Journalism required a different kind of attention and a different relationship to time than he had access to now. What he wanted was something slower, something that could hold the weight of what the last two years had been without trying to explain it.
 
-The ordinary was harder to write than the extraordinary. The extraordinary announced itself, demanded attention, provided its own structure. The ordinary had to be discovered. It had to be seen clearly enough to be worth the seeing, and that required a different kind of patience than he had practiced as a journalist, where the story was usually something that had already happened and his job was to find it and shape it and deliver it to people who needed to know.
+The ordinary was harder to write than the extraordinary. The extraordinary demanded attention on its own terms, arrived already shaped, already carrying its own structure. The ordinary had to be discovered. It had to be seen clearly enough to be worth the seeing, and that required a different kind of patience than he had practiced as a journalist, where the story was usually something that had already happened and his job was to find it and shape it and deliver it to people who needed to know.
 
 Here, the story was still happening. The story was the life they had built in this place, the rhythm of Sarah's work and Jessie's school and his own slow circling around whatever it was he was trying to understand about what faithfulness looked like when it became daily. When it became ordinary. When it stopped being a crisis and became a life.
 

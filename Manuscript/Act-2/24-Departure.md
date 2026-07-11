@@ -65,4 +65,4 @@ She stood there a moment with her hand still on the latch, Daniel beside her, Je
 
 The courtyard was the courtyard. The fig tree was the fig tree. Somewhere below them, three stories down, the green lights burned in the dark exactly as they had burned every morning for two years, patient, unhurried, indifferent to the fact that something had just happened above them that they had, in their own way, already known.
 
-What had changed could not be seen from the gate. Sarah understood this too, standing there in the ordinary morning light with her hand still on the latch. The most profound changes, she thought, did not announce themselves. They simply arrived, were received, and then let the world go on looking exactly as it had before, because that was the only proof they needed of how completely they had already happened.
+What had changed could not be seen from the gate. Sarah stood there in the ordinary morning light, her hand still on the latch, and thought that the deepest changes in a life rarely came with a mark on them. They arrived, were received, and the world went on looking exactly as it had, indifferent to what had just moved through it.

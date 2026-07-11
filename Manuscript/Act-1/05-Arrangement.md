@@ -36,7 +36,7 @@ He gave a small nod. "Is there anything you need?"
 
 "No." She held up the pastéis. "These are welcome."
 
-Something shifted in his face, not quite a smile, something more restrained than that, the expression of a man who does not often allow expressions. "My wife makes them better. But the village bakery is on the way."
+A small dry amusement crossed his face, not quite a smile, more restrained than that, the expression of a man who does not often allow expressions. "My wife makes them better. But the village bakery is on the way."
 
 He did not ask about the house. He did not ask about Daniel or Jessie, whose existence he presumably knew about, or about the equipment in the basement, which he certainly knew about in some general sense. A man did not route sensitive authentication requests to a farmhouse in the Alentejo without understanding that something was there to do the authenticating. He did not ask what it was. He did not ask how it worked.
 

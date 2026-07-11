@@ -6,7 +6,7 @@ Sarah was at the counter when he came in, going through the day's mail with the 
 
 "What."
 
-"Kowalski called." He pulled out a chair but did not sit in it yet, one hand resting on the back of it instead, and she recognized that too: a man arranging himself before he delivered something he had already arranged in his own head first. "Not his usual day. Not his usual anything."
+"Kowalski called." He pulled out a chair but did not sit in it yet, one hand resting on the back of it instead, and she recognized that too: a man arranging himself before he delivered something he had already arranged in his own head first. "It wasn't his usual day, and it wasn't anything like his usual register."
 
 She set the mail down. The clock above the stove read 3:15.
 
