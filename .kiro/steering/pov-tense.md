@@ -1,0 +1,1 @@
+../../.cursor/rules/pov-tense.mdc

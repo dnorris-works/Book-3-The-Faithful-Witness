@@ -2,6 +2,8 @@
 description: POV and tense conventions for Book 3 (The Holding) manuscript chapters
 globs: Manuscript/**/*.md
 alwaysApply: false
+inclusion: fileMatch
+fileMatchPattern: "Manuscript/**/*.md"
 ---
 
 # POV and Tense — Book 3
