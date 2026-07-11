@@ -38,7 +38,7 @@ A quantum instrument reads a 2,000-year-old olive tree and finds something no on
 *(Replace this line with your Amazon buy link for Book 1)*
 
 **The Judas Rope** — Book 2 — *Available now in ebook and paperback*
-The Vatican hands MEMORIA a rope from Akeldama — the field of blood. Sarah catalogued it herself, years ago, and never forgot it. Now she has to read it.
+The Vatican hands MEMORIA a rope from Akeldama — the field of blood. Sarah cataloged it herself, years ago, and never forgot it. Now she has to read it.
 
 **[GET THE JUDAS ROPE ON AMAZON]**
 *(Replace this line with your Amazon buy link for Book 2)*
@@ -56,6 +56,6 @@ Enjoyed the series? Sign up at **[dallennorris.com](https://dallennorris.com)** 
 
 ---
 
-*All titles published by Deep Field Press. Available in ebook and paperback through Amazon.*
+*All titles published by Deep Field Press. Available in ebook.*
 
 ---
